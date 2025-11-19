@@ -1,0 +1,521 @@
+fecha,trabajo_realizado,calle,categoria,referencia,barrio,insumos_1,cantidad_1,fechasarregladas,mes
+2025-02-19,colocacion reflectores,belgrano,Instalaciónes Varias,ferro,desconocido,lampara 100w,2,2025-02-19,2025-02
+2025-02-19,retiro adornos y luminarias,bruno ramirez,Reparación / Mantenimiento,pasaje ,desconocido,no se usaron insumos,0,2025-02-19,2025-02
+2025-02-19,colocacion de lampara,libertad ,Instalaciónes Varias,libertad y guemes,desconocido,lampara 80w,1,2025-02-19,2025-02
+2025-02-19,colocacion de lampara,libertad ,Instalaciónes Varias,entre guemes y inmigrantes,desconocido,lampara 100w,1,2025-02-19,2025-02
+2025-02-19,colocacion de lampara,remedios de escalada,Instalaciónes Varias,entre 9 julio y jesus fernandez,desconocido,lampara 100w,1,2025-02-19,2025-02
+2025-02-19,colocacion de lampara,moreno,Instalaciónes Varias,moreno y mayuli,independiente,lampara 100w,1,2025-02-19,2025-02
+2025-02-19,colocacion de lampara,moreno,Instalaciónes Varias,entre mayuli y Gral. taboada,independiente,lampara 100w,2,2025-02-19,2025-02
+2025-02-19,colocacion,av. del agro,Instalaciónes Varias,flia gerez,desconocido,toma corriente,1,2025-02-19,2025-02
+2025-02-19,armado de jaula antibandalos,desconocido,Armado / Construcción,taller propio,desconocido,no se usaron insumos,0,2025-02-19,2025-02
+2025-01-28,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,desconocido,lampara 100w,20,2025-01-28,2025-01
+2025-01-28,colocacion de poste y lampara,coronel borges,Instalaciónes Varias,coronel borges y martin fierro ,desconocido,lampara 80w,1,2025-01-28,2025-01
+2025-01-28,colocacion de lampara,sargento cabral,Instalaciónes Varias,sargento cabral y absalon rojas,desconocido,lampara 100w,1,2025-01-28,2025-01
+2025-01-28,colocacion de lampara,remedios de escalada,Instalaciónes Varias,remedios de escalada y 27 de abril,desconocido,lampara 100w,2,2025-01-28,2025-01
+2025-01-28,reconexion,libertad,Conexión / Reconexion,libertad y av. dorrego,desconocido,lampara 150w,1,2025-01-28,2025-01
+2025-01-28,colocacion de lampara,desconocido,Instalaciónes Varias,flia abregu y castillo,victoria,lampara 100w,2,2025-01-28,2025-01
+2025-01-28,colocacion de lampara,belgrano,Instalaciónes Varias,(nestor dias)entre belgrano y san martin,desconocido,lampara 100w,2,2025-01-28,2025-01
+2025-01-28,colocacion de lampara,libertad,Instalaciónes Varias,(plazoleta)libertad e independiente,desconocido,lampara 100w,3,2025-01-28,2025-01
+2025-01-28,colocacion de lampara,libertad,Instalaciónes Varias,noelia villavicencio,desconocido,lampara 100w,1,2025-01-28,2025-01
+2025-02-20,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,desconocido,lampara 100w,10,2025-02-20,2025-02
+2025-02-20,extension,coronel lugones,Extensión / Ampliación,calle lugones y sarmiento,desconocido,lampara 100w,3,2025-02-20,2025-02
+2025-02-20,colocacion de lampara,almirante brown,Instalaciónes Varias,(flia molinari)almt. brown casi sarmiento,desconocido,lampara 100w,1,2025-02-20,2025-02
+2025-02-20,colocacion de lampara,mar argentino,Instalaciónes Varias,entre alfonsin y santa fe,desconocido,lampara 100w,1,2025-02-20,2025-02
+2025-02-20,colocacion de lampara,mar argentino,Instalaciónes Varias,mar argentino y santafe,desconocido,lampara 100w,1,2025-02-20,2025-02
+2025-02-20,colocacion de lampara,remedios de escalada,Instalaciónes Varias,remedios de escalada e inmigrantes,hospital,lampara 100w,1,2025-02-20,2025-02
+2025-02-20,colocacion de brazo y lampara,almirante brown,Instalaciónes Varias,cancha el toke(dani murad),desconocido,lampara 100w,1,2025-02-20,2025-02
+2024-10-02,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,15,2024-10-02,2024-10
+2024-10-02,retiro de columna ,belgrano,Retiro de insumos varios,veredon,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,colocacion de brazo y lampara,cheein,Instalaciónes Varias,desde emeta a la loma,desconocido,lampara 80w,11,2024-10-02,2024-10
+2024-10-02,timer corregido de comando,cheein,Cambio de Timer / Programación,emeta,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,colocacion de lampara,desconocido,Instalaciónes Varias,tuta carabajal,desconocido,lampara 80w,1,2024-10-02,2024-10
+2024-10-02,timer corregido de comando,san martin,Cambio de Timer / Programación,municipalidad,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,timer corregido de comando,libertad,Cambio de Timer / Programación,desconocido,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,timer corregido de comando,san martin,Cambio de Timer / Programación,plaza principal,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,colocacion de bajada de obra,av. del agro,Bajada de energía,desconocido,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,timer corregido de comando,belgrano,Cambio de Timer / Programación,desconocido,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,armado de columna,desconocido,Armado / Construcción,taller propio,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,trabajos varios,desconocido,Trabajos generales / Varios,taller propio,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-06-02,reconexion,desconocido,Conexión / Reconexion,flia villavicencio,las americas,no se usaron insumos,0,2024-06-02,2024-06
+2024-06-02,colocacion de lampara,desconocido,Instalaciónes Varias,camino a las lomitas,desconocido,lampara 80w,2,2024-06-02,2024-06
+2024-06-02,colocacion de lampara,desconocido,Instalaciónes Varias,frente al jardin,12 de octubre,lampara 80w,1,2024-06-02,2024-06
+2024-06-02,solucion de cortocircuito,desconocido,Trabajos generales / Varios,jardin de independiente,desconocido,no se usaron insumos,0,2024-06-02,2024-06
+2024-06-02,colocacion de lampara,andres chazarreta,Instalaciónes Varias,(flia degani)chazarreta y p. carol,21 de septiembre,lampara 80w,1,2024-06-02,2024-06
+2024-06-02,colocacion de brazo y lampara,cordoba,Instalaciónes Varias,entre almirante brown y chazarreta,desconocido,lampara 80w,1,2024-06-02,2024-06
+2024-06-02,colocacion de lampara,desconocido,Instalaciónes Varias,vivero municipal ex polideportivo,desconocido,lampara 80w,3,2024-06-02,2024-06
+2024-11-03,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 100w,7,2024-11-03,2024-11
+2024-11-03,cambio de contactor en comando,desconocido,Reemplazo de insumos electricos,desconocido,belgrano,no se usaron insumos,0,2024-11-03,2024-11
+2024-11-03,luminarias,san martin,Trabajos generales / Varios,en frente de chelala,desconocido,no se usaron insumos,0,2024-11-03,2024-11
+2024-11-03,timer corregido de comando,belgrano,Cambio de Timer / Programación,tauil,desconocido,no se usaron insumos,0,2024-11-03,2024-11
+2024-11-03,colocacion de lampara,coronel lugones,Instalaciónes Varias,frente a richard garcia,desconocido,lampara 100w,1,2024-11-03,2024-11
+2024-11-03,poda de arbol,desconocido,Trabajos generales / Varios,camino al vivero,desconocido,no se usaron insumos,0,2024-11-03,2024-11
+2024-11-03,cambio de fotocelula,desconocido,Reemplazo de insumos electricos,la loma,victoria,no se usaron insumos,0,2024-11-03,2024-11
+2024-11-03,timer corregido de comando,desconocido,Cambio de Timer / Programación,desconocido,libertad,no se usaron insumos,0,2024-11-03,2024-11
+2024-11-03,timer corregido de comando,desconocido,Cambio de Timer / Programación,desconocido,cooperativa,no se usaron insumos,0,2024-11-03,2024-11
+2024-11-03,timer corregido de comando,desconocido,Cambio de Timer / Programación,plaza mitre,centro,no se usaron insumos,0,2024-11-03,2024-11
+2024-11-02,poda de arbol,san martin,Trabajos generales / Varios,panaderia la amistad,centro,no se usaron insumos,0,2024-11-02,2024-11
+2024-11-02,empalme de cables de semaforo,san martin,Trabajos generales / Varios,san martin y santiago del estero,desconocido,no se usaron insumos,0,2024-11-02,2024-11
+2024-11-02,colocacion de lampara,santa fe,Instalaciónes Varias,santa fe y uriarte,2 de abril,lampara 80w,1,2024-11-02,2024-11
+2024-11-02,colocacion de lampara,uriarte,Instalaciónes Varias,uriarte y corrientes,3 de abril,lampara 80w,2,2024-11-02,2024-11
+2024-11-02,timer corregido de comando,belgrano,Cambio de Timer / Programación,tauil,desconocido,no se usaron insumos,0,2024-11-02,2024-11
+2024-11-02,limpieza aire acondicionado,desconocido,Trabajos generales / Varios,taller propio,desconocido,no se usaron insumos,0,2024-11-02,2024-11
+2024-11-02,arreglo de toma corriente,san martin,Trabajos generales / Varios,municipalidad,centro,no se usaron insumos,0,2024-11-02,2024-11
+2024-12-02,colocacion de lampara y reconexion,ruta 34,Instalaciónes Varias,desde sarmiento a alfonsin,desconocido,lampara 100w,18,2024-12-02,2024-12
+2025-02-13,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,centro,lampara 80w,10,2025-02-13,2025-02
+2025-02-13,colocacion de lampara,desconocido,Instalaciónes Varias,calle de edu cameraneci ,libertad,lampara 80w,2,2025-02-13,2025-02
+2025-02-13,colocacion de lampara,san martin,Instalaciónes Varias,pegado al comando,libertad,lampara 80w,1,2025-02-13,2025-02
+2025-02-13,colocacion de lampara,san martin,Instalaciónes Varias,flia cordoba,libertad,lampara 80w,1,2025-02-13,2025-02
+2025-02-13,colocacion de lampara,desconocido,Instalaciónes Varias,lado de las vias,libertad,lampara 80w,1,2025-02-13,2025-02
+2025-02-13,colocacion de lampara,colon,Instalaciónes Varias,flia soplan ,san antonio,lampara 80w,1,2025-02-13,2025-02
+2025-02-13,colocacion de lampara,almirante brown,Instalaciónes Varias,almirante brown y tucuman,desconocido,lampara 80w,1,2025-02-13,2025-02
+2025-02-13,colocacion de lampara,uriarte ,Instalaciónes Varias,uriarte y santa fe ,2 de abril,lampara 80w,1,2025-02-13,2025-02
+2025-02-13,colocacion de brazo y lampara,desconocido,Instalaciónes Varias,flia vicente corvalan,aguila,lampara 80w,1,2025-02-13,2025-02
+2025-02-14,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,centro,lampara 80w,10,2025-02-14,2025-02
+2025-02-14,bajada para obra,san martin,Bajada de energía,prolongacion,desconocido,no se usaron insumos,0,2025-02-14,2025-02
+2025-02-14,colocacion de lampara,almirante brown,Instalaciónes Varias, almirante brown y patricia carol,21 de septiembre,lampara 80w,1,2025-02-14,2025-02
+2025-02-14,colocacion de lampara,chazarreta,Instalaciónes Varias,entre sarmiento y alem,san antonio,lampara 80w,1,2025-02-14,2025-02
+2025-02-14,colocacion de lampara,desconocido,Instalaciónes Varias,flia julio gomez (lado del comando),aguila,lampara 80w,1,2025-02-14,2025-02
+2025-02-14,cambio de caja en comando,desconocido,Reemplazo de insumos electricos,galpon del ferro,desconocido,no se usaron insumos,0,2025-02-14,2025-02
+2025-02-14,colocacion de lampara,libertad,Instalaciónes Varias,libertad y santiago del estero,desconocido,lampara 80w,1,2025-02-14,2025-02
+2025-02-14,colocacion de lampara,desconocido,Instalaciónes Varias,frente a la cancha,la loma,lampara 80w,1,2025-02-14,2025-02
+2025-02-14,colocacion de brazo y lampara,inmigrantes,Instalaciónes Varias,inmigrantes y sargento cabral,desconocido,lampara 80w,1,2025-02-14,2025-02
+2025-02-21,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,centro,lampara 100w,8,2025-02-21,2025-02
+2025-02-21,colocacion de lampara,alfonsin,Instalaciónes Varias,alfonsin y 25 de mayo,desconocido,lampara 100w,1,2025-02-21,2025-02
+2025-02-21,colocacion de lampara,9 de julio,Instalaciónes Varias,entre san martin y belgrano,desconocido,lampara 100w,1,2025-02-21,2025-02
+2025-02-21,colocacion de lampara,desconocido,Instalaciónes Varias,frente a nicolosi,desconocido,lampara 100w,4,2025-02-21,2025-02
+2025-02-21,colocacion de lampara,belgrano,Instalaciónes Varias,frente a la casa de veron,belgrano,lampara 100w,1,2025-02-21,2025-02
+2025-02-21,colocacion de lampara,belgrano,Instalaciónes Varias,entre n.diaz y f. duran,belgrano,lampara 100w,1,2025-02-21,2025-02
+2025-02-21,colocacion de lampara,desconocido,Instalaciónes Varias,predio de los feriantes,desconocido,lampara 100w,2,2025-02-21,2025-02
+2025-02-21,reparacion de semaforo,belgrano,Reparación / Mantenimiento,belgrano y dorrego,desconocido,no se usaron insumos,0,2025-02-21,2025-02
+2025-02-21,llave termica baja,desconocido,Trabajos generales / Varios,escuela buey muerto,desconocido,no se usaron insumos,0,2025-02-21,2025-02
+2025-02-24,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,centro,lampara 100w,11,2025-02-24,2025-02
+2025-02-24,acomodar cable de semaforo,jesus fernandez,Trabajos generales / Varios,jesus fernandez y libertad,desconocido,no se usaron insumos,0,2025-02-24,2025-02
+2025-02-24,colocacion de lampara,remedios de escalada,Instalaciónes Varias,entre santiago del estero y 27 de abril,desconocido,lampara 100w,1,2025-02-24,2025-02
+2025-02-24,colocacion de lampara,remedios de escalada,Instalaciónes Varias,entre santiago del estero y 27 de abril,desconocido,lampara 100w,1,2025-02-24,2025-02
+2025-02-24,colocacion de lampara,almirante brown,Instalaciónes Varias,entre alfonsin y santa fe,desconocido,lampara 100w,2,2025-02-24,2025-02
+2025-02-24,colocacion de lampara,almirante brown,Instalaciónes Varias,entre santa fe y cordoba,desconocido,lampara 100w,1,2025-02-24,2025-02
+2025-02-24,puente cortado,martin fierro,Trabajos generales / Varios,martin fierro y san martin,desconocido,no se usaron insumos,0,2025-02-24,2025-02
+2025-02-24,armado de jaula antibandalos,desconocido,Trabajos generales / Varios,taller propio,desconocido,no se usaron insumos,0,2025-02-24,2025-02
+2025-02-25,poda de arbol,moreno,Trabajos generales / Varios,san martin y libertad,desconocido,no se usaron insumos,0,2025-02-25,2025-02
+2025-02-25,"colocacion de columna, antibandalos y recambio de colector",desconocido,Reemplazo de insumos electricos,desconocido,2 de abril,lampara 80w,1,2025-02-25,2025-02
+2025-02-25,colocacion de lampara,tucuman,Instalaciónes Varias,tucuman y andres chazarreta,desconocido,lampara 80w,1,2025-02-25,2025-02
+2025-02-25,poste quebrado y cables cortados,matienzo,Trabajos generales / Varios,desconocido,desconocido,no se usaron insumos,0,2025-02-25,2025-02
+2025-02-25,cambiar llave y tomacorrientes,desconocido,Reemplazo de insumos electricos,jardin ositos cariñositos,desconocido,toma corriente,1,2025-02-25,2025-02
+2025-02-25,trabajo en taller,desconocido,Trabajos generales / Varios,taller propio,desconocido,no se usaron insumos,0,2025-02-25,2025-02
+2025-02-26,cambio de flotante en bomba,desconocido,Reemplazo de insumos electricos,loaj,desconocido,no se usaron insumos,0,2025-02-26,2025-02
+2025-02-26,colocacion de lampara,desconocido,Instalaciónes Varias,bomba de loaj,desconocido,lampara 100w,1,2025-02-26,2025-02
+2025-02-26,colocacion de lampara,namuncura,Instalaciónes Varias,cruzando ruta 34,desconocido,lampara 100w,1,2025-02-26,2025-02
+2025-02-26,colocacion de lampara,uruguay,Instalaciónes Varias,pasaje uruguay(frente al tanque de agua),desconocido,lampara 100w,1,2025-02-26,2025-02
+2025-02-26,colocacion de lampara,matienzo,Instalaciónes Varias,matienzo y colon,norte,lampara 100w,1,2025-02-26,2025-02
+2025-02-26,colocacion de lampara,peru,Instalaciónes Varias,pasaje pru,maipu,lampara 100w,2,2025-02-26,2025-02
+2025-02-26,mantenimiento de alumbrado,desconocido,Reparación / Mantenimiento,salita de primeros auxilios,la loma,no se usaron insumos,0,2025-02-26,2025-02
+2025-02-26,colocacion de lampara,desconocido,Instalaciónes Varias,estela gorosito,la loma,lampara 100w,1,2025-02-26,2025-02
+2025-02-27,retiro de luminarias,desconocido,Reparación / Mantenimiento,predio ex pista coronel,desconocido,lampara 150w,4,2025-02-27,2025-02
+2025-02-27,"colocacion de llaves, lampara y tomacorriente",desconocido,Instalaciónes Varias,jardin ositos cariñositos,desconocido,lampara 80w,1,2025-02-27,2025-02
+2025-02-27,colocacion de lampara,alem,Instalaciónes Varias,alem y almirante brown,desconocido,lampara 80w,1,2025-02-27,2025-02
+2025-02-27,colocacion de drisa,desconocido,Instalaciónes Varias,escuela de las americas,las americas,no se usaron insumos,0,2025-02-27,2025-02
+2025-02-27,colocacion de lampara,alfonsin,Instalaciónes Varias,alfonsin y calle publica(cic),desconocido,lampara 80w,1,2025-02-27,2025-02
+2025-02-27,trabajo en taller,desconocido,Trabajos generales / Varios,taller propio,desconocido,no se usaron insumos,0,2025-02-27,2025-02
+2025-02-28,colocacion de lampara,rafael ruiz,Instalaciónes Varias,rafael ruiz y belgrano,desconocido,lampara 100w,2,2025-02-28,2025-02
+2025-02-28,trabajos varios,desconocido,Trabajos generales / Varios,taller propio,desconocido,no se usaron insumos,0,2025-02-28,2025-02
+2025-05-03,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,centro,timer comando,2,2025-05-03,2025-05
+2025-05-03,reconexion,desconocido,Conexión / Reconexion,escuela nueva del 2 de abril,2 de abril,no se usaron insumos,0,2025-05-03,2025-05
+2025-05-03,cambio de timer de comando,san martin,Cambio de Timer / Programación,san martin y dorrego,desconocido,timer comando,1,2025-05-03,2025-05
+2025-05-03,colocacion de lampara,20 de junio,Instalaciónes Varias,20 de junio y moreno,independiente,lampara 100w,1,2025-05-03,2025-05
+2025-05-03,colocacion de lampara,inmigrantes,Instalaciónes Varias,entre 20 de junio y congreso,independiente,lampara 100w,1,2025-05-03,2025-05
+2025-05-03,timer corregido de comando,desconocido,Cambio de Timer / Programación,emeta,desconocido,no se usaron insumos,0,2025-05-03,2025-05
+2025-05-03,timer corregido de comando,desconocido,Cambio de Timer / Programación,desconocido,libertad,no se usaron insumos,0,2025-05-03,2025-05
+2024-06-02,conexion de medidor,desconocido,Conexión / Reconexion,escuela nueva del 2 de abril,2 de abril,no se usaron insumos,0,2024-06-02,2024-06
+2024-06-02,colocacion de brazo y lampara,desconocido,Instalaciónes Varias,cruzando la ruta por nicolosi,desconocido,lampara 100w,1,2024-06-02,2024-06
+2024-06-02,colocacion de lampara,nestor diaz ,Instalaciónes Varias,nestor diaz y lascano,belgrano,lampara 100w,1,2024-06-02,2024-06
+2024-06-02,colocacion de lampara,mendez,Instalaciónes Varias,mendez y lascano (flia ibarra),belgrano,lampara 100w,1,2024-06-02,2024-06
+2024-06-02,colocacion de lampara,francisco duran,Instalaciónes Varias,francisco duran y belgrano,belgrano,lampara 100w,1,2024-06-02,2024-06
+2024-06-02,colocacion de lampara,nestor diaz ,Instalaciónes Varias,nestor diaz y belgrano,belgrano,lampara 100w,1,2024-06-02,2024-06
+2024-06-02,reconexion ,almirante brown,Conexión / Reconexion,frente a panaderia buen gusto,desconocido,no se usaron insumos,0,2024-06-02,2024-06
+2024-06-02,reparacion maquina hormigonera,av.del agro,Reparación / Mantenimiento,desconocido,desconocido,no se usaron insumos,0,2024-06-02,2024-06
+2024-06-02,reemplazo de cable,desconocido,Trabajos generales / Varios,escuela paul harris,desconocido,no se usaron insumos,0,2024-06-02,2024-06
+2024-06-02,bajada de toma corriente,san martin,Bajada de energía,desconocido,centro,no se usaron insumos,0,2024-06-02,2024-06
+2024-06-02,arreglo de ventilador y colocacion de plafon,san martin,Reparación / Mantenimiento,municipalidad,centro,no se usaron insumos,0,2024-06-02,2024-06
+2024-07-02,timer corregido de comando,desconocido,Cambio de Timer / Programación,desconocido,villa elisa,no se usaron insumos,0,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,uriarte,Instalaciónes Varias,uriarte y tucuman,villa elisa,lampara 100w,1,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,hipolito irigoyen,Instalaciónes Varias,desconocido,malvinas,lampara 100w,1,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,godoy cruz,Instalaciónes Varias,entre saavedra e inmigrantes,102 viviendas,lampara 100w,2,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,desconocido,Instalaciónes Varias,pasaje junto a las vias ,libertad,lampara 100w,1,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,dorrego,Instalaciónes Varias,entre san martin y libertad,desconocido,lampara 100w,1,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,jesus fernandez,Instalaciónes Varias,frente a la policia,desconocido,lampara 100w,1,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,jesus fernandez,Instalaciónes Varias,jesus fernandez y sargento cabral,desconocido,lampara 100w,1,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,independencia,Instalaciónes Varias,independencia y 20 junio,desconocido,lampara 100w,1,2024-07-02,2024-07
+2024-07-02,morseto quemado,desconocido,Trabajos generales / Varios,desconocido,bicentenario,no se usaron insumos,0,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,libertad,Instalaciónes Varias,libertad y garcia mendez,bicentenario,lampara 100w,2,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,9 de julio,Instalaciónes Varias,al lado del profesorado,desconocido,lampara 100w,1,2024-07-02,2024-07
+2024-07-02,colocacion de brazo y lampara,calle publica,Instalaciónes Varias,entre alfonsin y balcarce detras de paul harris,desconocido,lampara 100w,2,2024-07-02,2024-07
+2024-07-02,armado de jaula antibandalos,desconocido,Trabajos generales / Varios,taller propio,desconocido,no se usaron insumos,0,2024-07-02,2024-07
+2024-10-02,retiro de insumos,san martin,Retiro de insumos varios,municipalidad,centro,lampara 100w,10,2024-10-02,2024-10
+2024-10-02,reemplazo de cable,desconocido,Trabajos generales / Varios,galpon del ferro,desconocido,lampara 100w,1,2024-10-02,2024-10
+2024-10-02,bajada de toma corriente,alfonsin,Bajada de energía,alfonsin y ruta 34,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,colocacion de lampara,chazarreta,Instalaciónes Varias,entre rivadavia y balcarse,desconocido,lampara 100w,1,2024-10-02,2024-10
+2024-10-02,colocacion de lampara,chazarreta,Instalaciónes Varias,entre rivadavia y matienzo,desconocido,lampara 100w,1,2024-10-02,2024-10
+2024-10-02,colocacion de lampara,colon,Instalaciónes Varias,entre sarmiento y tucuman,desconocido,lampara 100w,1,2024-10-02,2024-10
+2024-10-02,colocacion de lampara,corrientes,Instalaciónes Varias,entre chazarreta y almirante brown,desconocido,lampara 100w,1,2024-10-02,2024-10
+2024-10-02,colocacion de lampara,mar argentino,Instalaciónes Varias,entre cordoba y corrientes,2 de abril,lampara 100w,2,2024-10-02,2024-10
+2024-10-02,timer corregido de comando,desconocido,Cambio de Timer / Programación,lado del caballito,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,timer corregido de comando,desconocido,Cambio de Timer / Programación,en los pinos,los pinos,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,timer corregido de comando,cordoba,Cambio de Timer / Programación,cordoba y 25 de mayo,desconocido,no se usaron insumos,0,2024-10-02,2024-10
+2024-10-02,cambio de fotocelula en comando,desconocido,Reemplazo de insumos electricos,desconocido,belgrano,fotocelula,1,2024-10-02,2024-10
+2025-04-21,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,centro,lamparas,10,2025-04-21,2025-04
+2025-04-21,cambio de tomacorriente,av del agro,Reemplazo de insumos electricos,av del agro,desconocido,toma corriente,0,2025-04-21,2025-04
+2025-04-21,colocacion de fotocelula y cable,los castillos,Instalaciónes Varias,cementerio,desconocido,fotocelula con base,1,2025-04-21,2025-04
+2025-04-21,bajada a tierra,av san martín ,Bajada de energía,bajada a tierra de tomas para albañiles,desconocido,no se usaron insumos,0,2025-04-21,2025-04
+2025-04-21,reacomodo de poste y colocacion de antibandalos,desconocido,Instalaciónes Varias,casa de tuta,malvinas,antibandalo,1,2025-04-21,2025-04
+2025-04-21,colocacion de lampara,rivadavia,Instalaciónes Varias,rivadavia y colón,desconocido,lampara 80w,1,2025-04-21,2025-04
+2025-04-21,colocacion de lampara,remedios de escalada,Instalaciónes Varias,9 de julio y remedios de escalada,desconocido,lampara 80w,1,2025-04-21,2025-04
+2025-04-21,cambio de horario de un timer,desconocido,Reemplazo de insumos electricos,ninguna,desconocido,no se usaron insumos,0,2025-04-21,2025-04
+2025-04-21,cambio de faroles modificados,av alfonsín,Reemplazo de insumos electricos,ninguna,desconocido,lampara 40w,4,2025-04-21,2025-04
+2025-04-21,trabajo en taller,desconocido,Trabajos generales / Varios,taller,desconocido,no se usaron insumos,0,2025-04-21,2025-04
+2025-04-22,colocacion de lampara,villa elisa,Instalaciónes Varias,hipolito irigoyen y matienzo,desconocido,lampara 80w,1,2025-04-22,2025-04
+2025-04-22,colocacion de lampara,heroes de malvinas,Instalaciónes Varias,ninguna,desconocido,lampara 80w,1,2025-04-22,2025-04
+2025-04-22,colocacion de lampara,alfonsin,Instalaciónes Varias,alfonsin y almirante brown,desconocido,lampara 80w,1,2025-04-22,2025-04
+2025-04-22,colocacion de lampara,almirante brown,Instalaciónes Varias,almirante brown y cordoba,desconocido,lampara 80w,1,2025-04-22,2025-04
+2025-04-22,colocacion de lampara,cordoba,Instalaciónes Varias,cordoba y heroes de malvinas,desconocido,lampara 80w,2,2025-04-22,2025-04
+2025-04-22,colocacion de lampara,colón,Instalaciónes Varias,colon y cordoba,desconocido,lampara 80w,1,2025-04-22,2025-04
+2025-04-22,colocacion de lampara,namuncura,Instalaciónes Varias,namuncura y chazarreta,desconocido,lampara 80w,1,2025-04-22,2025-04
+2025-04-22,reconexion,mar argentino,Conexión / Reconexion,entre namuncura y corrientes,desconocido,no se usaron insumos,0,2025-04-22,2025-04
+2025-04-22,"colocacion de lampara, antibandalo y poda",mar argentino,Instalaciónes Varias,mar argentino y cordoba,desconocido,lampara 80w,1,2025-04-22,2025-04
+2025-04-22,colocacion de lampara,belgrano,Instalaciónes Varias,felix gomez y belgrano,desconocido,lampara 80w,1,2025-04-22,2025-04
+2025-04-22,retiro de insumo,av san martin,Retiro de insumos varios,municipalidad,centro,lampara 80w,10,2025-04-22,2025-04
+2025-04-22,luminaria descompuesta,av san martin,Trabajos generales / Varios,plaza mitre,desconocido,no se usaron insumos,0,2025-04-22,2025-04
+2025-04-22,colocacion de lamparas,octavio lascano,Instalaciónes Varias,octavio lascano y araujo,desconocido,lampara 80w,2,2025-04-22,2025-04
+2025-04-22,reconexion,corrientes,Conexión / Reconexion,frente de escuela,desconocido,no se usaron insumos,0,2025-04-22,2025-04
+2025-04-22,colocacion de lampara,jesús fernandez,Instalaciónes Varias,poso zuni/ibañez,desconocido,lampara 80w,2,2025-04-22,2025-04
+2025-04-22,colocacion de lampara,los castillos,Instalaciónes Varias,castillos y jesus fernandez,desconocido,lampara 80w,1,2025-04-22,2025-04
+2025-04-22,empalme cable subterraneo,av belgrano,Trabajos generales / Varios,paseo del agro,desconocido,cable,,2025-04-22,2025-04
+2025-04-22,trabajo en taller,desconocido,Trabajos generales / Varios,taller,desconocido,no se usaron insumos,0,2025-04-22,2025-04
+2025-04-23,retiro de insumo,av san martin,Retiro de insumos varios,municipalidad,centro,lampara 80w,10,2025-04-23,2025-04
+2025-04-23,colocacion de lampara,desconocido,Instalaciónes Varias,lado de lomada,cooperativa,lampara 80w,1,2025-04-23,2025-04
+2025-04-23,colocacion de lampara,almirante brown,Instalaciónes Varias,flia figueroa,desconocido,lampara 80w,1,2025-04-23,2025-04
+2025-04-23,colocacion de lampara,desconocido,Instalaciónes Varias,flia castillo,libertad,lampara 80w,1,2025-04-23,2025-04
+2025-04-23,"colocacion de antibandalo, lampara y cable de aluminio",pasaje pereyra,Instalaciónes Varias,extencion,desconocido,lampara 80w,1,2025-04-23,2025-04
+2025-04-23,colocacion de lampara,20 de junio,Instalaciónes Varias,20 de junio y pereyra,desconocido,lampara 80w,1,2025-04-23,2025-04
+2025-04-23,tutor en poste,desconocido,Trabajos generales / Varios,flia rodiguez,roca,no se usaron insumos,0,2025-04-23,2025-04
+2025-04-23,reconexion y colocacion de lampara,santiago del estero,Instalaciónes Varias,santiago del estero y mayulli,desconocido,lampara 80w,1,2025-04-23,2025-04
+2025-04-23,reclamo de edese,av san martin,Trabajos generales / Varios,"comando del vivero, falta cable de lumbrado",desconocido,no se usaron insumos,0,2025-04-23,2025-04
+2025-04-23,colocacion de lampara,desconocido,Instalaciónes Varias,sala y capilla,2 de abril,lampara 80w,1,2025-04-23,2025-04
+2025-04-23,cambio de conexion de llave de luz,desconocido,Reemplazo de insumos electricos,capilla,2 de abril,no se usaron insumos,0,2025-04-23,2025-04
+2025-04-23,cambio de lampara,andres chazarreta,Reemplazo de insumos electricos,andres chazarreta y perú,desconocido,lampara 80w,1,2025-04-23,2025-04
+2025-04-23,retiro de columna con dos artefactos,desconocido,Reparación / Mantenimiento,plazoleta,maipú,no se usaron insumos,0,2025-04-23,2025-04
+2025-04-23,cambio de lampara y cable,av san martin,Reemplazo de insumos electricos,plaza mitre,centro,lampara 40w,8,2025-04-23,2025-04
+2025-04-23,trabajo en taller,desconocido,Trabajos generales / Varios,taller,desconocido,no se usaron insumos,0,2025-04-23,2025-04
+2025-04-24,colocacion de cables y antibandalos,desconocido,Instalaciónes Varias,predio quechuistas,desconocido,lampara 80w,1,2025-04-24,2025-04
+2025-04-24,colocacion de lampara,Libertad,Instalaciónes Varias,garcia mendez y libertad,centro,lampara 80w,2,2025-04-24,2025-04
+2025-04-24,reconexion luminaria,raul alfonsin,Conexión / Reconexion,desconocido,desconocido,no se usaron insumos,0,2025-04-24,2025-04
+2025-04-24,reconexion cable cortado,libertad,Conexión / Reconexion,hogar de ancianos,desconocido,no se usaron insumos,0,2025-04-24,2025-04
+2025-04-24,colocacion de antibandalo y lampara,av belgrano,Instalaciónes Varias,paseo del agro,desconocido,lampara 80w,15,2025-04-24,2025-04
+2025-04-24,colocacion de cable subterraneo,av 25 de mayo,Instalaciónes Varias,veredon,desconocido,no se usaron insumos,0,2025-04-24,2025-04
+2025-04-24,trabajo en taller,desconocido,Trabajos generales / Varios,taller,desconocido,no se usaron insumos,0,2025-04-24,2025-04
+2025-04-25,reactivacion de lamparas,desconocido,Trabajos generales / Varios,desconocido,desconocido,lampara 80w,5,2025-04-25,2025-04
+2025-04-25,reclamo universidad,independencia,Trabajos generales / Varios,faltan 5 lamparas de 80w y una fotocelula indu,desconocido,no se usaron insumos,0,2025-04-25,2025-04
+2025-04-25,retiro lampara quemada,desconocido,Reparación / Mantenimiento,oficina de ale,desconocido,no se usaron insumos,0,2025-04-25,2025-04
+2025-04-25,colocacion de lampara,america del norte,Instalaciónes Varias,america del norte y buenos aires,las americas,lampara 80w,1,2025-04-25,2025-04
+2025-04-25,colocacion de lampara,dorrego,Instalaciónes Varias,desconocido,desconocido,lampara 80w,1,2025-04-25,2025-04
+2025-04-25,trabajo en taller,desconocido,Trabajos generales / Varios,taller,desconocido,no se usaron insumos,0,2025-04-25,2025-04
+2025-04-25,colocacion drisa en mastil,av 25 de mayo,Instalaciónes Varias,sportivo,desconocido,no se usaron insumos,0,2025-04-25,2025-04
+2025-04-28,retiro de insumo,av san martin,Retiro de insumos varios,municipalidad,centro,lampara 80w,10,2025-04-28,2025-04
+2025-04-28,colocacion,desconocido,Instalaciónes Varias,sala mistol,desconocido,cable,,2025-04-28,2025-04
+2025-04-28,colocacion,desconocido,Instalaciónes Varias,mistol,desconocido,acometida,0,2025-04-28,2025-04
+2025-04-28,colocacion de antibandalos y lampara,desconocido,Instalaciónes Varias,"sala, mistol",desconocido,antibandalos completos,4,2025-04-28,2025-04
+2025-04-28,colocacion de focos internos,desconocido,Instalaciónes Varias,"sala, mistol",desconocido,focos internos,0,2025-04-28,2025-04
+2025-04-28,activacion de comando nuevo,av belgrano,Trabajos generales / Varios,paseo del agro,desconocido,no se usaron insumos,0,2025-04-28,2025-04
+2025-04-28,colocacion de bandera provincial y fernandez,av belgrano,Instalaciónes Varias,paseo del agro,desconocido,no se usaron insumos,0,2025-04-28,2025-04
+2025-04-28,reconexion,desconocido,Conexión / Reconexion,flia mamfred@,2 de abril,no se usaron insumos,0,2025-04-28,2025-04
+2025-04-28,colocacion de lampara,cordoba,Instalaciónes Varias,cordoba y mar argentino,desconocido,lampara 80w,1,2025-04-28,2025-04
+2025-04-28,colocacion de lampara,cordoba,Instalaciónes Varias,cordoba y uriarte,2 de abril ampliacion,lampara 80w,1,2025-04-28,2025-04
+2025-04-28,colocacion de lampara,ruta 34 vieja,Instalaciónes Varias,flia farfan,desconocido,lampara 80w,1,2025-04-28,2025-04
+2025-04-28,colocacion de fotocelula  ,desconocido,Instalaciónes Varias,mistol,desconocido,fotocelula industrial,1,2025-04-28,2025-04
+2025-04-28,colocacion de lampara,garcia mendez,Instalaciónes Varias,garcia mendez y belgrano,desconocido,lampara 80w,1,2025-04-28,2025-04
+2025-04-28,trabajo en taller,desconocido,Trabajos generales / Varios,taller,desconocido,no se usaron insumos,0,2025-04-28,2025-04
+2025-04-28,trabajo en el peaje,ruta 34 nueva,Trabajos generales / Varios,pasando la YPF,desconocido,no se usaron insumos,0,2025-04-28,2025-04
+2025-05-29,retiro de insumo,av san martin,Retiro de insumos varios,municipalidad,centro,lampara 80w,10,2025-05-29,2025-05
+2025-05-29,colocacion de lampara,libertad,Instalaciónes Varias,ninguna,libertad,lampara 80w,2,2025-05-29,2025-05
+2025-05-29,colocacion de lampara,desconocido,Instalaciónes Varias,"canalito, costado del canal de drenaje",desconocido,lampara 80w,4,2025-05-29,2025-05
+2025-05-29,"colocacion de lampara, cables y parada de columna",desconocido,Instalaciónes Varias,plazoleta,maipú,lampara 80w,2,2025-05-29,2025-05
+2025-05-29,colocacion de lampara,uriquiza,Instalaciónes Varias,urquiza y pedro leon gallo,desconocido,lampara 80w,1,2025-05-29,2025-05
+2025-05-29,retiro de cable,desconocido,Reparación / Mantenimiento,desconocido,desconocido,no se usaron insumos,0,2025-05-29,2025-05
+2025-05-29,colocacion de lampara,Urquiza,Instalaciónes Varias,Urquiza y fransisco de aguirre,desconocido,lampara 80w,1,2025-05-29,2025-05
+2025-05-29,cambio de farola,santiago del estero,Reemplazo de insumos electricos,esquina de santiago del estero y av san martin,desconocido,lampara 40w,10,2025-05-29,2025-05
+2025-05-29,trabajo en taller,desconocido,Trabajos generales / Varios,taller,desconocido,no se usaron insumos,0,2025-05-29,2025-05
+2025-05-30,retiro de insumo,av san martin,Retiro de insumos varios,municipalidad,centro,lampara 80w,10,2025-05-30,2025-05
+2025-05-30,bajada de toma,av belgrano,Bajada de energía,"paseo del agro, tio gere",desconocido,no se usaron insumos,0,2025-05-30,2025-05
+2025-05-30,colocacion de foto celula y lampara,independencia,Instalaciónes Varias,Escuela de capacitacion profesional N25 adolfo alsina,desconocido,lampara 80w,4,2025-05-30,2025-05
+2025-05-30,extencion de alumbrado,desconocido,Instalaciónes Varias,"la loma, victoria al fondo, garnica cristina",desconocido,no se usaron insumos,0,2025-05-30,2025-05
+2025-05-30,colocacion de lampara,jesus fernandez,Instalaciónes Varias,pozo suni,desconocido,lampara 80w,1,2025-05-30,2025-05
+2025-05-30,colocacion de lampara,juan mayuli,Instalaciónes Varias,juan mayulli y jesus fernandez,desconocido,lampara 80w,1,2025-05-30,2025-05
+2025-05-30,reconexion,irigoyen,Conexión / Reconexion,"hipolito irigoyen casi matienzo, flia villalba",desconocido,no se usaron insumos,0,2025-05-30,2025-05
+2025-05-30,colocacion de lampara,pedro leon gallo,Instalaciónes Varias,pedro leon gallo y matienzo,desconocido,lampara 80w,1,2025-05-30,2025-05
+2025-05-30,colocacion de lampara,matienzo,Instalaciónes Varias,atras del hospital nuevo,desconocido,lampara 80w,1,2025-05-30,2025-05
+2025-05-30,colocacion de lampara,pedro leon gallo,Instalaciónes Varias,entre cordoba y santa fe,desconocido,lampara 80w,1,2025-05-30,2025-05
+2025-05-30,colocacion de lampara,av belgrano,Instalaciónes Varias,paseo del agro,desconocido,lampara 80w,3,2025-05-30,2025-05
+2025-05-06,poda de planta ,desconocido,Trabajos generales / Varios,frente de la chuchi matarazo,desconocido,no se usaron insumos,0,2025-05-06,2025-05
+2025-05-06,colocacion de lampara,congreso,Instalaciónes Varias,congreso y martin fierro,desconocido,lampara 80w,1,2025-05-06,2025-05
+2025-05-06,retiro de guirnalda,desconocido,Reparación / Mantenimiento,desconocido,desconocido,no se usaron insumos,0,2025-05-06,2025-05
+2025-05-06,colocacion de lampara,hector celario,Instalaciónes Varias,entre san martín y belgrano,belgrano,lampara 80w,1,2025-05-06,2025-05
+2025-05-06,colocacion de lampara,hector celario,Instalaciónes Varias,entre belgrano y lascano,belgrano,lampara 80w,1,2025-05-06,2025-05
+2025-05-06,colocacion de lampara,san martin,Instalaciónes Varias,esquina de paola juarez,bicentenario,lampara 80w,1,2025-05-06,2025-05
+2025-05-06,colocacion de lampara,san martin,Instalaciónes Varias,frente a cancha de fadel,desconocido,lampara 80w,2,2025-05-06,2025-05
+2025-05-06,reconexion,desconocido,Conexión / Reconexion,sala de mistol,desconocido,cable,0,2025-05-06,2025-05
+2025-05-06,parada de pilar trifasico,desconocido,Conexión / Reconexion,en mistol,desconocido,no se usaron insumos,0,2025-05-06,2025-05
+2024-06-05,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,centro,lampara 80w,15,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,absalon rojas,Instalaciónes Varias,absalon rojas y san martín frente de jyr,desconocido,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,27 de abril,Instalaciónes Varias,27 de abril y belgrano,desconocido,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,belgrano,Instalaciónes Varias,entre chein y islas malvinas,desconocido,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,reprogramacion de timer,desconocido,Cambio de Timer / Programación,desconocido,libertad,no se usaron insumos,0,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,namuncura,Instalaciónes Varias,frente escuela nueva,desconocido,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,namuncura,Instalaciónes Varias,entre pedro leon gallo y ruta 34,desconocido,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,pasaje domingo bravo,Instalaciónes Varias,desconocido,30 viviendas,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,almirante brown,Instalaciónes Varias,p carol y almirante brown,desconocido,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,chazarreta,Instalaciónes Varias,esquina de plazoleta,desconocido,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,reconexion,laprida,Conexión / Reconexion,entre chazarreta e irigoyen,desconocido,"cable jn, polar",,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,pasaje juan felipe ibarra,Instalaciónes Varias,pasaje,independiente,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,pasaje de mario alosen,Instalaciónes Varias,donde vive mario alosen,desconocido,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,desconocido,Instalaciónes Varias,la loma al lado del canal del drenaje,desconocido,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,colocacion de lampara,desconocido,Instalaciónes Varias,"loteo de figueora, chungui pereyra ",desconocido,lampara 80w,1,2024-06-05,2024-06
+2024-06-05,trabajo en taller,desconocido,Trabajos generales / Varios,taller,desconocido,no se usaron insumos,0,2024-06-05,2024-06
+2024-06-05,bajada de toma,jesus fernandez,Bajada de energía,yendo a pozo suni,desconocido,no se usaron insumos,0,2024-06-05,2024-06
+2024-07-05,retiro de insumo,av san martin,Retiro de insumos varios,municipalidad,centro,lampara 80w,10,2024-07-05,2024-07
+2024-07-05,cambio de lugar de poste,av san martin,Reemplazo de insumos electricos,desconocido,desconocido,no se usaron insumos,0,2024-07-05,2024-07
+2024-07-05,reparaciones varias,desconocido,Reparación / Mantenimiento,Jardin 12 de octubre,desconocido,no se usaron insumos,0,2024-07-05,2024-07
+2024-07-05,reparaciones varias,desconocido,Reparación / Mantenimiento,Jardin 2 de abril,desconocido,no se usaron insumos,0,2024-07-05,2024-07
+2024-07-05,reparacion de comando,av belgrano,Reparación / Mantenimiento,tauil,desconocido,no se usaron insumos,0,2024-07-05,2024-07
+2024-07-05,colocacion de lampara,desconocido,Instalaciónes Varias,Casa de adriana rodriguez,cooperativa,lampara 80w,1,2024-07-05,2024-07
+2024-07-05,conexion,desconocido,Conexión / Reconexion,flia roldan,cooperativa,no se usaron insumos,0,2024-07-05,2024-07
+2024-07-05,colocacion de lampara,desconocido,Instalaciónes Varias,pasaje al lado del negocio de gilda,cooperativa,lampara 80w,1,2024-07-05,2024-07
+2024-07-05,colocacion de lampara,pasaje america,Instalaciónes Varias,desconocido,12 de octubre,lampara 80w,1,2024-07-05,2024-07
+2024-07-05,arreglo de poste,desconocido,Reparación / Mantenimiento,camino a la loma,desconocido,no se usaron insumos,0,2024-07-05,2024-07
+2024-07-05,trabajo en taller,desconocido,Trabajos generales / Varios,taller,desconocido,no se usaron insumos,0,2024-07-05,2024-07
+2024-09-05,colocacion de lampara,ruta 34,Instalaciónes Varias,"sobre ruta 34 y matienzo, flia gallardo",desconocido,lampara 80w,1,2024-09-05,2024-09
+2024-09-05,colocacion de lampara,ruta 34,Instalaciónes Varias,"matienzo y ruta 34, gauchito gil",desconocido,lampara 80w,1,2024-09-05,2024-09
+2024-09-05,colocacion de guirnalda con foco y bajada a tierra,desconocido,Bajada de energía,plazoleta del maipú,desconocido,focos,5,2024-09-05,2024-09
+2024-09-05,colocacion de lampara,desconocido,Instalaciónes Varias,plazoleta del maipú,desconocido,lampara 80w,1,2024-09-05,2024-09
+2024-09-05,colocacion de lampara,matienzo,Instalaciónes Varias,matienzo y colón,desconocido,lampara 80w,1,2024-09-05,2024-09
+2024-09-05,colocacion de lampara,martin fierro,Instalaciónes Varias,martin fierro y godoy cruz,desconocido,lampara 80w,2,2024-09-05,2024-09
+2024-09-05,colocacion de ventilador,desconocido,Instalaciónes Varias,sala de mistol,desconocido,no se usaron insumos,0,2024-09-05,2024-09
+2024-09-05,cambio de 3 llaves punto y tdm,desconocido,Reemplazo de insumos electricos,escuela huellitas,desconocido,no se usaron insumos,0,2024-09-05,2024-09
+2025-05-02,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,adaptadores,60,2025-05-02,2025-05
+2025-05-02,colocacion de lampara,namuncura,Instalaciónes Varias,namuncura y ruta 34 (flia ortega),desconocido,lampara 80w,1,2025-05-02,2025-05
+2025-05-02,colocacion de lampara,irigoyen,Instalaciónes Varias,irigoyen casi namuncura (flia perez),2 de abril,lampara 80w,1,2025-05-02,2025-05
+2025-05-02,extension ,av san martin,Instalaciónes Varias,en el barrio del gringo figueroa,san martin,cable,,2025-05-02,2025-05
+2025-05-02,colocacion de lampara,urquiza,Instalaciónes Varias,entre irigoyen y chazarreta,desconocido,lampara 80w,1,2025-05-02,2025-05
+2025-05-02,reparacion de comando,desconocido,Reparación / Mantenimiento,desconocido,desconocido,no se usaron insumos,0,2025-05-02,2025-05
+2025-05-02,poda de arbol,jesus fernandez,Trabajos generales / Varios,jesus fernandez y 20 de junio,desconocido,no se usaron insumos,0,2025-05-02,2025-05
+2025-05-02,reparacion de luminaria y antivandalos,desconocido,Reparación / Mantenimiento,desconocido,desconocido,no se usaron insumos,0,2025-05-02,2025-05
+2025-05-02,cambio de llave,desconocido,Reemplazo de insumos electricos,en oficina de sanfi ,desconocido,no se usaron insumos,0,2025-05-02,2025-05
+2024-10-01,colocacion de lampara,tucuman,Instalaciónes Varias,tucuman y uriarte,desconocido,lampara 80w,2,2024-10-01,2024-10
+2024-10-01,reconexion,tucuman,Conexión / Reconexion,tucuman y america del norte,desconocido,no se usaron insumos,0,2024-10-01,2024-10
+2024-10-01,colocacion de lampara,san martin,Instalaciónes Varias,san martin y rafael ruiz,desconocido,lampara 80w,0,2024-10-01,2024-10
+2024-10-01,trabajo en taller,desconocido,Trabajos generales / Varios,desconocido,desconocido,no se usaron insumos,0,2024-10-01,2024-10
+2024-10-01,colocacion de lampara,desconocido,Instalaciónes Varias,la loma,desconocido,lampara 80w,14,2024-10-01,2024-10
+2024-10-01,reconexion,desconocido,Conexión / Reconexion,la loma,desconocido,portalamparas,4,2024-10-01,2024-10
+2024-10-01,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,10,2024-10-01,2024-10
+2024-10-01,reconexion,chein,Conexión / Reconexion,chein y belgrano (cifra),desconocido,no se usaron insumos,0,2024-10-01,2024-10
+2024-10-01,revision de cable robado,desconocido,Trabajos generales / Varios,desconocido,las americas,no se usaron insumos,0,2024-10-01,2024-10
+2024-10-01,colocacion de lampara,santa fe,Instalaciónes Varias,desconocido,las penquitas,lampara 80w,1,2024-10-01,2024-10
+2024-10-01,revision de instalacion electrica,desconocido,Trabajos generales / Varios,desconocido,villa elisa,lampara 80w,1,2024-10-01,2024-10
+2025-01-15,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,cable,,2025-01-15,2025-01
+2025-01-15,extension ,av belgrano,Trabajos generales / Varios,predio del ferro,desconocido,cable,,2025-01-15,2025-01
+2025-01-15,bajada para bomba de agua,ruta 34,Bajada de energía,predio el ganzo,desconocido,no se usaron insumos,0,2025-01-15,2025-01
+2025-01-15,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,cable concentrico,0,2025-01-15,2025-01
+2025-01-15,trabajo en taller,desconocido,Trabajos generales / Varios,desconocido,desconocido,no se usaron insumos,0,2025-01-15,2025-01
+2025-01-17,colocacion,av san martin,Instalaciónes Varias,predio fiesta del trigo,9 de julio,antivandalo,5,2025-01-17,2025-01
+2025-01-17,conexion,av san martin,Conexión / Reconexion,predio fiesta del trigo,9 de julio,cable concentrico,,2025-01-17,2025-01
+2025-01-17,bajada de electricidad,av san martin,Bajada de energía,predio fiesta del trigo,9 de julio,toma corriente,2,2025-01-17,2025-01
+2025-01-17,colocacion de lampara,ruta 34 (vieja),Instalaciónes Varias,ruta 34 frente a sportivo,cooperativa,lampara 80w,2,2025-01-17,2025-01
+2025-01-17,colocacion de lampara,godoy cruz,Instalaciónes Varias,guemes y godoy cruz,102,lampara 80w,1,2025-01-17,2025-01
+2025-01-17,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,11,2025-01-17,2025-01
+2025-01-17,colocacion de lampara,guemes,Instalaciónes Varias,libertad y remedios de escalada,desconocido,lampara 80w,2,2025-01-17,2025-01
+2025-01-17,trabajo en taller,desconocido,Trabajos generales / Varios,desconocido,desconocido,no se usaron insumos,0,2025-01-17,2025-01
+2025-01-17,colocacion,desconocido,Instalaciónes Varias,municipalidad,desconocido,ventilador de pared,1,2025-01-17,2025-01
+2025-01-17,colocacion de lampara,desconocido,Instalaciónes Varias,moreno y mayuli,desconocido,lampara 80w,1,2025-01-17,2025-01
+2025-01-17,colocacion de lampara,desconocido,Instalaciónes Varias,gral taboada e independencia,desconocido,lampara 80w,1,2025-01-17,2025-01
+2025-01-13,trabajo en taller,desconocido,Trabajos generales / Varios,desconocido,desconocido,no se usaron insumos,0,2025-01-13,2025-01
+2025-01-14,reconexion,libertad,Conexión / Reconexion,salon de guadalupe,hospital,cable,,2025-01-14,2025-01
+2025-01-14,colocacion de lampara,borges,Instalaciónes Varias,entre inmigrantes y saavedra,desconocido,lampara 80w,3,2025-01-14,2025-01
+2025-01-14,arreglo de cable caido del alumbrado,borges,Reparación / Mantenimiento,borges y saavedra,desconocido,no se usaron insumos,0,2025-01-14,2025-01
+2025-01-14,reconexion,desconocido,Conexión / Reconexion,plazoleta belgrano,desconocido,lampara 80w,3,2025-01-14,2025-01
+2025-01-14,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,10,2025-01-14,2025-01
+2025-01-22,alumbrado,av san martin (prologacion),Trabajos generales / Varios,vivero,desconocido,lampara 80w,3,2025-01-22,2025-01
+2025-01-22,colocacion poste,desconocido,Instalaciónes Varias,la cuchilla (molinari),desconocido,poste,1,2025-01-22,2025-01
+2025-01-22,colocacion de lampara,congreso,Instalaciónes Varias,congreso y 12 de octubre,desconocido,lampara 80w,1,2025-01-22,2025-01
+2025-01-22,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,5,2025-01-22,2025-01
+2025-01-22,colocacion de lampara,almirante brown,Instalaciónes Varias,almirante brown y namuncura,desconocido,lampara 80w,1,2025-01-22,2025-01
+2025-01-22,revision de instalacion electrica,desconocido,Trabajos generales / Varios,negro torres funciona normal¿,trula,no se usaron insumos,0,2025-01-22,2025-01
+2025-01-22,revision de instalacion electrica,av san martin (prolongacion norte),Trabajos generales / Varios,concejal gomez funciona normal¿,desconocido,no se usaron insumos,0,2025-01-22,2025-01
+2025-01-22,colocacion de lampara,corrientes,Instalaciónes Varias,corrientes y andres chazarreta,desconocido,lampara 80w,2,2025-01-22,2025-01
+2025-01-22,colocacion de lampara,matienzo,Instalaciónes Varias,matienzo e hipolito irigoyen,desconocido,lampara 80w,1,2025-01-22,2025-01
+2024-06-02,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,10,2024-06-02,2024-06
+2024-06-02,retiro de mangueras y adornos,sarmiento,Retiro de insumos varios,sarmiento,desconocido,no se usaron insumos,0,2024-06-02,2024-06
+2024-06-02,revision de instalacion electrica,inmigrantes,Trabajos generales / Varios,inmigrantes y sargento cabral,desconocido,no se usaron insumos,0,2024-06-02,2024-06
+2024-06-02,instalacion,desconocido,Trabajos generales / Varios,plazoleta del maipu,maipu,brazo doble,6,2024-06-02,2024-06
+2024-06-02,reconexion,desconocido,Conexión / Reconexion,plaza mitre,desconocido,no se usaron insumos,0,2024-06-02,2024-06
+2024-07-02,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,10,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,dorrego,Instalaciónes Varias,entre 20 de junio y congreso,desconocido,lampara 80w,1,2024-07-02,2024-07
+2024-07-02,colocacion de lampara,sargento cabral,Instalaciónes Varias,dorrego y 12 de octubre,desconocido,lampara 80w,1,2024-07-02,2024-07
+2024-07-02,reparacion,absalon rojas,Reparación / Mantenimiento,entre san martin y libertad,desconocido,no se usaron insumos,0,2024-07-02,2024-07
+2025-01-31,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,cable,,2025-01-31,2025-01
+2025-01-31,colocacion y retiro de cable,desconocido,Instalaciónes Varias,predio fiesta del trigo,desconocido,antivandalos,5,2025-01-31,2025-01
+2025-01-31,extension de alumbrado,desconocido,Trabajos generales / Varios,flias cisneros y rojas ¿,desconocido,alumbrado,,2025-01-31,2025-01
+2025-01-31,colocacion de lampara,desconocido,Instalaciónes Varias,flia moreno¿,las americas,lampara 80w,1,2025-01-31,2025-01
+2025-01-20,colocacion de lampara,libertad,Instalaciónes Varias,libertad y 27 de abril,desconocido,lampara 80w,1,2025-01-20,2025-01
+2025-01-20,colocacion de lampara,islas malvinas,Instalaciónes Varias,islas malvinas y libertad,desconocido,lampara 80w,1,2025-01-20,2025-01
+2025-01-20,colocacion de lampara,andres chazarreta,Instalaciónes Varias,andres chazarreta e islas malvinas,desconocido,lampara 80w,1,2025-01-20,2025-01
+2025-01-20,colocacion de lampara,uriarte,Instalaciónes Varias,uriarte y urquiza,desconocido,lampara 80w,1,2025-01-20,2025-01
+2025-01-20,colocacion de lampara,uriarte,Instalaciónes Varias,uriarte y matienzo,desconocido,lampara 80w,1,2025-01-20,2025-01
+2025-01-20,colocacion de lampara,independencia,Instalaciónes Varias,entre san martin y belgrano,desconocido,lampara 80w,2,2025-01-20,2025-01
+2025-01-20,colocacion de lampara,independencia,Instalaciónes Varias,frente al centro cultural,desconocido,lampara 80w,1,2025-01-20,2025-01
+2025-01-20,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,10,2025-01-20,2025-01
+2025-01-20,poda de arbol,santiago del estero,Trabajos generales / Varios,santiago del estero y absalon rojas,desconocido,no se usaron insumos,0,2025-01-20,2025-01
+2025-01-20,colocacion de lampara,urquiza,Instalaciónes Varias,urquiza matadero,desconocido,lampara 80w,1,2025-01-20,2025-01
+2025-01-20,trabajo en taller,desconocido,Trabajos generales / Varios,desconocido,desconocido,no se usaron insumos,0,2025-01-20,2025-01
+2025-01-24,retiro de tomas,desconocido,Reparación / Mantenimiento,desconocido,desconocido,no se usaron insumos,0,2025-01-24,2025-01
+2025-01-24,colocacion de lampara,rivadavia,Instalaciónes Varias,rivadavia y almirante brown,desconocido,lampara 80w,2,2025-01-24,2025-01
+2025-01-24,colocacion de lampara,colon,Instalaciónes Varias,colon y santa fe,desconocido,lampara 80w,1,2025-01-24,2025-01
+2025-01-24,revision de instalacion electrica,almirante brown,Trabajos generales / Varios,almirante brown y matienzo,desconocido,no se usaron insumos,0,2025-01-24,2025-01
+2025-01-24,presta de luminaria,desconocido,Instalaciónes Varias,la cuchilla,desconocido,150mt,0,2025-01-24,2025-01
+2025-01-24,colocacion,desconocido,Instalaciónes Varias,hogar de ancianos,desconocido,foco,1,2025-01-24,2025-01
+2025-01-24,colocacion de lampara,nestor diaz,Instalaciónes Varias,barrio bicentenario calle nestor diaz,bicentenario,lampara 80w,1,2025-01-24,2025-01
+2025-01-24,colocacion de lampara,los castillo,Instalaciónes Varias,calle los castillo y cementerio,desconocido,lampara 80w,4,2025-01-24,2025-01
+2025-01-21,traslado,desconocido,Trabajos generales / Varios,la cuchilla,desconocido,postes,2,2025-01-21,2025-01
+2025-01-21,bajada de electricidad,desconocido,Bajada de energía,barrio libertad,libertad,toma corriente,1,2025-01-21,2025-01
+2025-01-21,revision de instalacion electrica,desconocido,Trabajos generales / Varios,barrio libertad,libertad,no se usaron insumos,0,2025-01-21,2025-01
+2025-01-21,revision de instalacion electrica,desconocido,Trabajos generales / Varios,barrio 21 de septiembre,21 de septiembre,no se usaron insumos,0,2025-01-21,2025-01
+2025-01-21,colocacion de lampara,tucuman,Instalaciónes Varias,tucuman y 25 de mayo,desconocido,lampara 80w,1,2025-01-21,2025-01
+2025-01-21,colocacion de lampara,tucuman,Instalaciónes Varias,entre 25 de mayo y colon,desconocido,lampara 80w,1,2025-01-21,2025-01
+2025-01-21,colocacion de lampara,colon,Instalaciónes Varias,entre tucuman y sarmiento,desconocido,lampara 80w,1,2025-01-21,2025-01
+2025-01-21,colocacion de lampara,tucuman,Instalaciónes Varias,entre colon y almirante brown,desconocido,lampara 80w,1,2025-01-21,2025-01
+2025-01-21,colocacion de lampara,uriarte,Instalaciónes Varias,casi alfonsin frente a maderera el aleman,desconocido,lampara 80w,1,2025-01-21,2025-01
+2025-01-21,revision de cable robado,25 de mayo,Trabajos generales / Varios,predio de los quichuista,desconocido,no se usaron insumos,0,2025-01-21,2025-01
+2025-01-21,retiro luces navideñas,santiago del estero,Reparación / Mantenimiento,santiago del estero y dorrego,desconocido,no se usaron insumos,0,2025-01-21,2025-01
+2025-01-29,colocacion de lampara,rivadavia,Instalaciónes Varias,entre colon y 25 de mayo,desconocido,lampara 80w,2,2025-01-29,2025-01
+2025-01-29,colocacion,desconocido,Instalaciónes Varias,veredon,desconocido,toma corriente,1,2025-01-29,2025-01
+2025-01-29,retiro de poste de alumbrado,lescano,Reparación / Mantenimiento,calle lescano casi chein,belgrano,no se usaron insumos,0,2025-01-29,2025-01
+2025-01-29,colocacion de lampara,rivadavia,Instalaciónes Varias,flia minga corvalan,30 viviendas,lampara 80w,1,2025-01-29,2025-01
+2025-01-29,reparacion,lugones,Reparación / Mantenimiento,lugones y rivadavia,30 viviendas,no se usaron insumos,0,2025-01-29,2025-01
+2025-01-29,colocacion de lampara,pedro leon gallo,Instalaciónes Varias,entre cordoba y santa fe,villa aurora,lampara 80w,1,2025-01-29,2025-01
+2025-01-29,colocacion de lampara,desconocido,Instalaciónes Varias,flia farfan,santa rita,lampara 80w,1,2025-01-29,2025-01
+2025-04-02,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,13,2025-04-02,2025-04
+2025-04-02,colocacion,desconocido,Instalaciónes Varias,municipalidad,desconocido,soga,1,2025-04-02,2025-04
+2025-04-02,reconexion,belgrano,Conexión / Reconexion,belgrano e independencia,desconocido,no se usaron insumos,0,2025-04-02,2025-04
+2025-04-02,reparacion,inmigrantes,Reparación / Mantenimiento,barrio hospital calle inmigrantes,hospital,no se usaron insumos,0,2025-04-02,2025-04
+2025-04-02,colocacion,paraje puesto nuevo,Instalaciónes Varias,casa de mabel silva,puesto nuevo,brazo,1,2025-04-02,2025-04
+2025-04-02,colocacion de lampara,la loma,Instalaciónes Varias,flia mercedes toloza,la loma,lampara 80w,1,2025-04-02,2025-04
+2025-04-02,cambio de contactor,pozo zuni,Reemplazo de insumos electricos,pozo zuni,pozo zuni,no se usaron insumos,0,2025-04-02,2025-04
+2025-04-02,colocacion de lampara,desconocido,Instalaciónes Varias,plazoleta belgrano,desconocido,lampara 80w,2,2025-04-02,2025-04
+2025-01-14,bajada de electricidad,av. san martin,Bajada de energía,av san martin barrio libertad,libertad,no se usaron insumos,0,2025-01-14,2025-01
+2025-01-14,colocacion de lampara,dorrego,Instalaciónes Varias,pasaje santos vega y dorrego,desconocido,lampara 80w,1,2025-01-14,2025-01
+2025-01-14,colocacion de lampara,libertad,Instalaciónes Varias,libertad y rafael ruiz,desconocido,lampara 80w,1,2025-01-14,2025-01
+2025-01-14,trabajo en taller,desconocido,Trabajos generales / Varios,desconocido,desconocido,no se usaron insumos,0,2025-01-14,2025-01
+2025-01-15,colocacion de lampara y reconexiones,gerez,Instalaciónes Varias,calle gerez junto a la tapia de sportivo,desconocido,lampara 80w,2,2025-01-15,2025-01
+2025-02-02,colocacion de lampara,irigoyen,Instalaciónes Varias,irigoyen barrio las malvinas lote de grigio,las malvinas,lampara 80w,1,2025-02-02,2025-02
+2025-02-02,colocacion de lampara,chazarreta,Instalaciónes Varias,chazarreta y laprida,desconocido,lampara 80w,2,2025-02-02,2025-02
+2025-02-02,reconexion,desconocido,Conexión / Reconexion,plazoleta del maipu,maipu,no se usaron insumos,0,2025-02-02,2025-02
+2025-02-02,cambio de fotocelula,desconocido,Reemplazo de insumos electricos,cic de las americas,las americas,fotocelula,1,2025-02-02,2025-02
+2025-02-02,traslado,desconocido,Trabajos generales / Varios,sec. gonzales,desconocido,cable concentrico,,2025-02-02,2025-02
+2025-03-02,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,10,2025-03-02,2025-03
+2025-03-02,colocacion de lampara,27 de abril,Instalaciónes Varias,entre san martin y libertad,desconocido,lampara 80w,1,2025-03-02,2025-03
+2025-03-02,colocacion de lampara,27 de abril,Instalaciónes Varias,entre libertad y remedios de escalada,desconocido,lampara 80w,1,2025-03-02,2025-03
+2025-03-02,colocacion de lampara,libertad,Instalaciónes Varias,entre 27 de abril y santiago del estero,desconocido,lampara 80w,1,2025-03-02,2025-03
+2025-03-02,colocacion de lampara,moreno,Instalaciónes Varias,moreno y mayuli,independiente,lampara 80w,1,2025-03-02,2025-03
+2025-01-23,colocacion de lampara,corrientes,Instalaciónes Varias,calle corrientes y publica,las penquitas,lampara 80w,1,2025-01-23,2025-01
+2025-01-23,corte de cables sueltos,pedro leon gallo,Trabajos generales / Varios,pedro leon gallo y rivadavia,desconocido,no se usaron insumos,0,2025-01-23,2025-01
+2025-01-23,revision de cable cortado,los castillo,Trabajos generales / Varios,calle los castillo,desconocido,fotocelula,1,2025-01-23,2025-01
+2025-01-23,trabajo en taller,desconocido,Trabajos generales / Varios,desconocido,desconocido,no se usaron insumos,0,2025-01-23,2025-01
+2025-01-23,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,10,2025-01-23,2025-01
+2025-01-24,trabajo en taller,desconocido,Trabajos generales / Varios,desconocido,desconocido,no se usaron insumos,0,2025-01-24,2025-01
+2025-01-24,cambio de llave,desconocido,Reemplazo de insumos electricos,predio paseo del agro,desconocido,llave bipolar de 20 A40amp,1,2025-01-24,2025-01
+2025-01-24,colocacion de lampara,desconocido,Instalaciónes Varias,cementerio,desconocido,lampara 80w,1,2025-01-24,2025-01
+2025-01-27,retiro de reflectores y palos,desconocido,Reparación / Mantenimiento,cancha de rugby,desconocido,no se usaron insumos,0,2025-01-27,2025-01
+2025-01-27, retiro de reflectores palos y cables,desconocido,Reparación / Mantenimiento,la cuchilla,desconocido,no se usaron insumos,0,2025-01-27,2025-01
+2025-01-27,colocaion de lampara,america central,Instalaciónes Varias,frente a la escuela paul harris,desconocido,lampara 80w,1,2025-01-27,2025-01
+2025-01-27,colocacion de lampara,balcarce,Instalaciónes Varias,entre colon y 25 de mayo,desconocido,lampara 80w,1,2025-01-27,2025-01
+2025-01-13,colocacion de lampara,hector celario,Instalaciónes Varias,hector celario y libertad,desconocido,lampara 80w,1,2025-01-13,2025-01
+2025-01-13,colocacion de lampara y reubicaciones,libertad,Instalaciónes Varias,libertad y garcia mendez,bicentenario,lampara 80w,1,2025-01-13,2025-01
+2025-01-13,colocacion de lampara,santa fe,Instalaciónes Varias,av. del agro y heroes de malvinas,desconocido,lampara 80w,2,2025-01-13,2025-01
+2025-01-13,colocacion de lampara,cordoba,Instalaciónes Varias,cordoba y av. del agro,desconocido,lampara 80w,1,2025-01-13,2025-01
+2025-01-13,colocacion de lampara,ruta 34,Instalaciónes Varias,flia velasquez,desconocido,lampara 80w,1,2025-01-13,2025-01
+2025-01-13,colocacion de lampara,desconocido,Instalaciónes Varias,taller de chato,las americas,lampara 80w,4,2025-01-13,2025-01
+2025-01-13,reconexion,desconocido,Conexión / Reconexion,desconocido,2 de abril,no se usaron insumos,0,2025-01-13,2025-01
+2025-01-29,retiro luces navideñas,av. belgrano,Reparación / Mantenimiento,av. belgrano,desconocido,no se usaron insumos,0,2025-01-29,2025-01
+2025-01-29,conexion,desconocido,Conexión / Reconexion,oficina del arqui,desconocido,no se usaron insumos,0,2025-01-29,2025-01
+2025-01-30,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,15,2025-01-30,2025-01
+2025-01-30,extension,desconocido,Trabajos generales / Varios,pasaje detras del barrio aguila,desconocido,cable,,2025-01-30,2025-01
+2025-01-30,colocacion de lampara,jesus fernandez,Instalaciónes Varias,pasaje santos vega y jesus fernandez,aguila,lampara 80w,1,2025-01-30,2025-01
+2025-01-30,colocacion de lampara,jesus fernandez,Instalaciónes Varias,entre santos vega y rene favaloro,desconocido,lampara 80w,1,2025-01-30,2025-01
+2025-01-30,colocacion de lampara,sargento cabral,Instalaciónes Varias,entre dorrego y moreno,desconocido,lampara 80w,1,2025-01-30,2025-01
+2025-01-30,colocacion de lampara,desconocido,Instalaciónes Varias,frente a la escuela paul harris,las americas,lampara 80w,1,2025-01-30,2025-01
+2025-01-16,reconexion,absalon rojas,Conexión / Reconexion,frente a susi wozquivich,desconocido,no se usaron insumos,0,2025-01-16,2025-01
+2025-01-16,colocacion de lampara,remedios de escalada,Instalaciónes Varias,pasaje roca,desconocido,lampara 80w,1,2025-01-16,2025-01
+2025-01-16,reconexion,san martin,Conexión / Reconexion,flia luna,quemado,cable,,2025-01-16,2025-01
+2025-01-16,recambio y colocacion de lampara,san martin,Reemplazo de insumos electricos,concejal gomez,libertad,brazo,1,2025-01-16,2025-01
+2025-01-16,colocaion de lampara,ruta 34 (vieja),Instalaciónes Varias,calle alen y ruta 34 vieja,desconocido,lampara 80w,1,2025-01-16,2025-01
+2025-01-16,colocacion de lampara,desconocido,Instalaciónes Varias,flia pereyra,el canalito,lampara 80w,1,2025-01-16,2025-01
+2025-01-16,colocacion de lampara,aguirre,Instalaciónes Varias,entre urquiza y matienzo,desconocido,lampara 80w,1,2025-01-16,2025-01
+2025-01-16,colocacion de lampara,almirante brown,Instalaciónes Varias,entre bolivia y rivadavia,desconocido,lampara 80w,1,2025-01-16,2025-01
+2025-01-16,colocacion de lampara,mar argentino,Instalaciónes Varias,mar argentino y santa fe,2 de abril,lampara 80w,1,2025-01-16,2025-01
+2025-01-16,colocacion de lampara,desconocido,Instalaciónes Varias,flia galvan,20 de junio,lampara 80w,1,2025-01-16,2025-01
+2025-01-16,colocacion de lampara,moreno,Instalaciónes Varias,moreno y remedios de escalada,desconocido,lampara 80w,1,2025-01-16,2025-01
+2025-01-22,colocacion,desconocido,Instalaciónes Varias,predio de los vidaleros,desconocido,cable concentrico,,2025-01-22,2025-01
+2025-01-22,retiro de luces navideñas,santiago del estero,Reparación / Mantenimiento,de santiago del estero hasta chein,desconocido,no se usaron insumos,0,2025-01-22,2025-01
+2025-01-22,trabajo en taller,desconocido,Trabajos generales / Varios,desconocido,desconocido,no se usaron insumos,0,2025-01-22,2025-01
+2025-01-23,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,10,2025-01-23,2025-01
+2025-01-23,colocacion,la cuchilla,Instalaciónes Varias,flia molinari,desconocido,guirnalda,1,2025-01-23,2025-01
+2025-01-23,colocacion,la cuchilla,Instalaciónes Varias,flia molinari,desconocido,reflector,0,2025-01-23,2025-01
+2025-01-23,bajada de electricidad,la cuchilla,Bajada de energía,flia molinari,desconocido,bajada para sonido y luz,2,2025-01-23,2025-01
+2025-01-23,colocacion,la cuchilla,Instalaciónes Varias,flia molinari,desconocido,antibanda,1,2025-01-23,2025-01
+2025-01-23,colocacion de lampara,america del norte,Instalaciónes Varias,america del norte y corrientes desde flia leiva hasta flia farias,las americas,lampara 80w,4,2025-01-23,2025-01
+2025-01-23,colocacion de lampara,cordoba,Instalaciónes Varias,cordoba y america del norte flia ragel bravo,desconocido,lampara 80w,1,2025-01-23,2025-01
+2025-01-30,colocacion de lampara,homero mansi,Instalaciónes Varias,barrio cooperativa calle homero masi,cooperativa,lampara 80w,2,2025-01-30,2025-01
+2025-01-30,colocacion,desconocido,Instalaciónes Varias,cementerio,desconocido,toma corriente,4,2025-01-30,2025-01
+2025-01-30,trabajo en taller,desconocido,Trabajos generales / Varios,desconocido,desconocido,no se usaron insumos,0,2025-01-30,2025-01
+2025-01-30,retiro mangueras navideñas,raul alfonsin,Reparación / Mantenimiento,av. del agro,desconocido,no se usaron insumos,0,2025-01-30,2025-01
+2025-01-28,colocacion de lampara,laprida,Instalaciónes Varias,entre 25 de mayo y colon,desconocido,lampara 80w,1,2025-01-28,2025-01
+2025-01-28,colocacion de lampara,godoy cruz,Instalaciónes Varias,flia rosa santillan,desconocido,lampara 80w,0,2025-01-28,2025-01
+2025-03-02,reparacion,general taboada,Reparación / Mantenimiento,entre moreno y dorrego,desconocido,no se usaron insumos,0,2025-03-02,2025-03
+2025-03-02,colocacion de lampara,libertad,Instalaciónes Varias,entre jesus fernandez y 9 de julio,desconocido,lampara 80w,1,2025-03-02,2025-03
+2025-03-02,colocacion de lampara,raul alfonsin,Instalaciónes Varias,entre raul alfonsin y america del norte (ramon mansilla),las americas,lampara 80w,1,2025-03-02,2025-03
+2025-03-02,colocacion de lampara,los castillo,Instalaciónes Varias,entre pozo zuni y la loma,desconocido,lampara 80w,2,2025-03-02,2025-03
+2025-03-02,colocacion de lampara,pasaje santos vega,Instalaciónes Varias,pasaje santos vega,aguila,lampara 80w,1,2025-03-02,2025-03
+2025-03-02,colocacion de lampara,calle gerez,Instalaciónes Varias,al lado de sportivo (mari delveliz),desconocido,lampara 80w,1,2025-03-02,2025-03
+2025-03-02,colocacion de lampara,chazarreta,Instalaciónes Varias,chazarreta y dario bovetti,las malvinas,lampara 80w,1,2025-03-02,2025-03
+2025-03-02,cambio de focos,av. 25 de mayo,Reemplazo de insumos electricos,veredon y bulevar,desconocido,lampara 80w,2,2025-03-02,2025-03
+2024-12-19,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,desconocido,lampara 100w,10,,2024-12
+2024-12-19,colocacion de lampara,cordoba,Instalaciónes Varias,cordoba y uriarte,2 de abril ampliacion,lampara 80w,1,,2024-12
+2024-12-19,arreglo de cable caido del alumbrado,borges,Reparación / Mantenimiento,borges y saavedra,desconocido,no se usaron insumos,0,,2024-12
+2024-12-20,colocacion de lampara,27 de abril,Instalaciónes Varias,27 de abril y belgrano,desconocido,lampara 80w,1,,2024-12
+2024-12-20,retiro de insumo,desconocido,Retiro de insumos varios,municipalidad,desconocido,lampara 80w,10,,2024-12
+2024-12-21,colocacion de lampara,uriarte,Instalaciónes Varias,uriarte y corrientes,3 de abril,lampara 80w,2,,2024-12
+2024-12-21,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,centro,lampara 100w,8,,2024-12
+2024-12-21,colocacion de lampara,namuncura,Instalaciónes Varias,cruzando ruta 34,desconocido,lampara 100w,1,,2024-12
+2024-12-21,colocacion de lampara,tucuman,Instalaciónes Varias,entre colon y almirante brown,desconocido,lampara 80w,1,,2024-12
+2024-12-22,reconexion,desconocido,Conexión / Reconexion,plazoleta del maipu,maipu,no se usaron insumos,0,,2024-12
+2024-12-22,colocaion de lampara,america central,Instalaciónes Varias,frente a la escuela paul harris,desconocido,lampara 80w,1,,2024-12
+2024-12-22,colocacion de lampara,mar argentino,Instalaciónes Varias,mar argentino y santa fe,2 de abril,lampara 80w,1,,2024-12
+2024-12-23,colocacion de lampara,congreso,Instalaciónes Varias,congreso y martin fierro,desconocido,lampara 80w,1,,2024-12
+2024-12-23,retiro de insumos,av san martin,Retiro de insumos varios,municipalidad,centro,lampara 80w,10,,2024-12
+2024-12-24,colocacion de lampara,desconocido,Instalaciónes Varias,cementerio,desconocido,lampara 80w,1,,2024-12
+2024-12-24,colocacion de lampara,alfonsin,Instalaciónes Varias,alfonsin y calle publica(cic),desconocido,lampara 80w,1,,2024-12
+2024-12-26,colocacion de lampara,mar argentino,Instalaciónes Varias,entre alfonsin y santa fe,desconocido,lampara 100w,1,,2024-12
+2024-12-26,colocacion de lampara,almirante brown,Instalaciónes Varias,entre bolivia y rivadavia,desconocido,lampara 80w,1,,2024-12
+2024-12-26,timer corregido de comando,san martin,Cambio de Timer / Programación,plaza principal,desconocido,no se usaron insumos,0,,2024-12
+2024-12-26,colocacion de lampara,pasaje santos vega,Instalaciónes Varias,pasaje santos vega,aguila,lampara 80w,1,,2024-12
+2024-12-26,cambio de conexion de llave de luz,desconocido,Reemplazo de insumos electricos,capilla,2 de abril,no se usaron insumos,0,,2024-12
+2024-12-27,colocacion de lampara,dorrego,Instalaciónes Varias,pasaje santos vega y dorrego,desconocido,lampara 80w,1,,2024-12
+2024-12-27,colocacion de lampara,uriarte,Instalaciónes Varias,casi alfonsin frente a maderera el aleman,desconocido,lampara 80w,1,,2024-12
+2024-12-27,colocacion de lampara,cordoba,Instalaciónes Varias,cordoba y heroes de malvinas,desconocido,lampara 80w,2,,2024-12
+2024-12-27,colocacion de lampara,corrientes,Instalaciónes Varias,corrientes y andres chazarreta,desconocido,lampara 80w,2,,2024-12
+2024-12-28,colocacion de lampara,sargento cabral,Instalaciónes Varias,dorrego y 12 de octubre,desconocido,lampara 80w,1,,2024-12
+2024-12-28,empalme de cables de semaforo,san martin,Trabajos generales / Varios,san martin y santiago del estero,desconocido,no se usaron insumos,0,,2024-12
+2024-12-29,colocacion de lampara,desconocido,Instalaciónes Varias,frente a nicolosi,desconocido,lampara 100w,4,,2024-12
+2024-12-30,retiro de insumo,san martin,Retiro de insumos varios,municipalidad,centro,timer comando,2,,2024-12
+2024-12-31,colocacion de lampara,garcia mendez,Instalaciónes Varias,garcia mendez y belgrano,desconocido,lampara 80w,1,,2024-12
+2025-01-01,colocacion de lampara,rivadavia,Instalaciónes Varias,entre colon y 25 de mayo,desconocido,lampara 80w,2,2025-01-01,2025-01
+2025-01-01,colocacion y retiro de cable,desconocido,Instalaciónes Varias,predio fiesta del trigo,desconocido,antivandalos,3,2025-01-01,2025-01
+2025-01-01,colocacion de lampara,uriarte ,Instalaciónes Varias,uriarte y santa fe ,2 de abril,lampara 80w,1,2025-01-01,2025-01
+2025-01-01,colocacion de lampara,pasaje America,Instalaciónes Varias,desconocido,12 de octubre,lampara 80w,1,2025-01-01,2025-01
