@@ -1,0 +1,658 @@
+fecha,trabajo_realizado,calle,tipo,referencia,barrio,insumos_1,cantidad_1,insumos_2,cantidad_2,insumos_3,cantidad_3,insumos_4,cantidad_4
+19/02/25,colocacion reflectores,belgrano,publico,ferro,null,lamparas 100w,2,cable  concentrico,50mt,reflectores,3,null,null
+19/02/25,retiro adornos y luminarias,bruno ramirez,publico,pasaje ,null,null,null,null,null,null,null,null,null
+19/02/25,colocacion de lampara,libertad ,publico,libertad y guemes,null,lamparas 80w,1,null,null,null,null,null,null
+19/02/25,colocacion de lampara,libertad ,publico,entre guemes y inmigrantes,null,lamparas 100w,1,null,null,null,null,null,null
+19/02/25,colocacion de lampara,remedios de escalada,publico,entre 9 julio y jesus fernandez,null,lamparas 100w,1,null,null,null,null,null,null
+19/02/25,colocacion de lampara,moreno,publico,moreno y mayuli,independiente,lamparas 100w,1,null,null,null,null,null,null
+19/02/25,colocacion de lampara,moreno,publico,entre mayuli y Gral. taboada,independiente,lamparas 100w,2,null,null,null,null,null,null
+19/02/25,colocacion,av. del agro,privado,flia gerez,null,toma corriente,1,null,null,null,null,null,null
+19/02/25,armado de jaula antibandalos,null,null,taller propio,null,null,null,null,null,null,null,null,null
+28/01/25,retiro de insumo,san martin,null,municipalidad,null,lamparas 100w,20,null,null,null,null,null,null
+28/01/25,colocacion de poste y lampara,coronel borges,publico,coronel borges y martin fierro ,null,lamparas 80w,1,cable ,10mt,poste,1,antibandalos,1
+28/01/25,colocacion de lampara,sargento cabral,publico,sargento cabral y absalon rojas,null,lamparas 100w,1,null,null,null,null,null,null
+28/01/25,colocacion de lampara,remedios de escalada,publico,remedios de escalada y 27 de abril,null,lamparas 100w,2,null,null,null,null,null,null
+28/01/25,reconexion,libertad,publico,libertad y av. dorrego,null,lampara 150w,1,null,null,null,null,null,null
+28/01/25,colocacion de lampara,null,privado,flia abregu y castillo,victoria,lamparas 100w,2,null,null,null,null,null,null
+28/01/25,colocacion de lampara,belgrano,privado,(nestor dias)entre belgrano y san martin,null,lamparas 100w,2,null,null,null,null,null,null
+28/01/25,colocacion de lampara,libertad,publico,(plazoleta)libertad e independiente,null,lamparas 100w,3,null,null,null,null,null,null
+28/01/25,colocacion de lampara,libertad,privado,noelia villavicencio,null,lamparas 100w,1,null,null,null,null,null,null
+20/02/25,retiro de insumo,san martin,null,municipalidad,null,lamparas 100w,10,null,null,null,null,null,null
+20/02/25,extension,coronel lugones,publico,calle lugones y sarmiento,null,lamparas 100w,3,cable,40mt,antibandalos,1,null,null
+20/02/25,colocacion de lampara,almirante brown,publico,(flia molinari)almt. brown casi sarmiento,null,lamparas 100w,1,null,null,null,null,null,null
+20/02/25,colocacion de lampara,mar argentino,publico,entre alfonsin y santa fe,null,lamparas 100w,1,null,null,null,null,null,null
+20/02/25,colocacion de lampara,mar argentino,publico,mar argentino y santafe,null,lamparas 100w,1,null,null,null,null,null,null
+20/02/25,colocacion de lampara,remedios de escalada,publico,remedios de escalada e inmigrantes,hospital,lamparas 100w,1,null,null,null,null,null,null
+20/02/25,colocacion de brazo y lampara,almirante brown,privado,cancha el toke(dani murad),null,lamparas 100w,1,brazo ,1,null,null,null,null
+10/02/25,retiro de insumo,san martin,null,municipalidad,null,lamparas 80w,15,null,null,null,null,null,null
+10/02/25,retiro de columna ,belgrano,publico,veredon,null,null,null,null,null,null,null,null,null
+10/02/25,colocacion de brazo y lampara,cheein,publico,desde emeta a la loma,null,lamparas 80w,11,brazo ,1,null,null,null,null
+10/02/25,timer corregido de comando,cheein,privado,emeta,null,null,null,null,null,null,null,null,null
+10/02/25,colocacion de lampara,null,privado,tuta carabajal,null,lamparas 80w,1,null,null,null,null,null,null
+10/02/25,timer corregido de comando,san martin,privado,municipalidad,null,null,null,null,null,null,null,null,null
+10/02/25,timer corregido de comando,libertad,publico,null,null,null,null,null,null,null,null,null,null
+10/02/25,timer corregido de comando,san martin,publico,plaza principal,null,null,null,null,null,null,null,null,null
+10/02/25,colocacion de bajada de obra,av. del agro,privado,null,null,null,null,null,null,null,null,null,null
+10/02/25,timer corregido de comando,belgrano,publico,null,null,null,null,null,null,null,null,null,null
+10/02/25,armado de columna,null,null,taller propio,null,null,null,null,null,null,null,null,null
+10/02/25,trabajos varios,null,null,taller propio,null,null,null,null,null,null,null,null,null
+06/02/25,reconexion,null,privado,flia villavicencio,las americas,null,null,null,null,null,null,null,null
+06/02/25,colocacion de lampara,null,publico,camino a las lomitas,null,lamparas 80w,2,null,null,null,null,null,null
+06/02/25,colocacion de lampara,null,publico,frente al jardin,12 de octubre,lamparas 80w,1,null,null,null,null,null,null
+06/02/25,solucion de cortocircuito,null,privado,jardin de independiente,null,null,null,null,null,null,null,null,null
+06/02/25,colocacion de lampara,andres chazarreta,privado,(flia degani)chazarreta y p. carol,21 de septiembre,lamparas 80w,1,null,null,null,null,null,null
+06/02/25,colocacion de brazo y lampara,cordoba,publico,entre almirante brown y chazarreta,null,lamparas 80w,1,brazo ,1,null,null,null,null
+06/02/25,colocacion de lampara,null,privado,vivero municipal ex polideportivo,null,lamparas 80w,3,null,null,null,null,null,null
+11/03/25,retiro de insumo,null,null,municipalidad,null,lamparas 100w,7,null,null,null,null,null,null
+11/03/25,cambio de contactor en comando,null,null,null,belgrano,null,null,null,null,null,null,null,null
+11/03/25,luminarias,san martin,privado,en frente de chelala,null,null,null,null,null,null,null,null,null
+11/03/25,timer corregido de comando,belgrano,privado,tauil,null,null,null,null,null,null,null,null,null
+11/03/25,colocacion de lampara,coronel lugones,null,frente a richard garcia,null,lamparas 100w,1,null,null,null,null,null,null
+11/03/25,poda de arbol,null,null,camino al vivero,null,null,null,null,null,null,null,null,null
+11/03/25,cambio de fotocelula,null,null,la loma,victoria,null,null,fotocelula,1,null,null,null,null
+11/03/25,timer corregido de comando,null,null,null,libertad,null,null,null,null,null,null,null,null
+11/03/25,timer corregido de comando,null,null,null,cooperativa,null,null,null,null,null,null,null,null
+11/03/25,timer corregido de comando,null,null,plaza mitre,centro,null,null,null,null,null,null,null,null
+11/02/25,poda de arbol,san martin,null,panaderia la amistad,centro,null,null,null,null,null,null,null,null
+11/02/25,empalme de cables de semaforo,san martin,null,san martin y santiago del estero,null,null,null,null,null,null,null,null,null
+11/02/25,colocacion de lampara,santa fe,null,santa fe y uriarte,2 de abril,lamparas 80w,1,null,null,null,null,null,null
+11/02/25,colocacion de lampara,uriarte,null,uriarte y corrientes,3 de abril,lamparas 80w,2,null,null,null,null,null,null
+11/02/25,timer corregido de comando,belgrano,null,tauil,null,null,null,null,null,null,null,null,null
+11/02/25,limpieza aire acondicionado,null,null,taller propio,null,null,null,null,null,null,null,null,null
+11/02/25,arreglo de toma corriente,san martin,null,municipalidad,centro,null,null,null,null,null,null,null,null
+12/02/25,colocacion de lampara y reconexion,ruta 34,null,desde sarmiento a alfonsin,null,lamparas 100w,18,6 reconexiones?,null,null,null,null,null
+13/02/25,retiro de insumo,san martin,null,municipalidad,centro,lamparas 80w,10,null,null,null,null,null,null
+13/02/25,colocacion de lampara,null,null,calle de edu cameraneci ,libertad,lamparas 80w,2,null,null,null,null,null,null
+13/02/25,colocacion de lampara,san martin,null,pegado al comando,libertad,lamparas 80w,1,null,null,null,null,null,null
+13/02/25,colocacion de lampara,san martin,null,flia cordoba,libertad,lamparas 80w,1,null,null,null,null,null,null
+13/02/25,colocacion de lampara,null,null,lado de las vias,libertad,lamparas 80w,1,null,null,null,null,null,null
+13/02/25,colocacion de lampara,colon,null,flia soplan ,san antonio,lamparas 80w,1,null,null,null,null,null,null
+13/02/25,colocacion de lampara,almirante brown,null,almirante brown y tucuman,null,lamparas 80w,1,null,null,null,null,null,null
+13/02/25,colocacion de lampara,uriarte ,null,uriarte y santa fe ,2 de abril,lamparas 80w,1,null,null,null,null,null,null
+13/02/25,colocacion de brazo y lampara,null,null,flia vicente corvalan,aguila,lamparas 80w,1,brazo ,1,null,null,null,null
+14/02/25,retiro de insumo,san martin,null,municipalidad,centro,lamparas 80w,10,null,null,null,null,null,null
+14/02/25,bajada para obra,san martin,null,prolongacion,null,null,null,null,null,null,null,null,null
+14/02/25,colocacion de lampara,almirante brown,null, almirante brown y patricia carol,21 de septiembre,lamparas 80w,1,null,null,null,null,null,null
+14/02/25,colocacion de lampara,chazarreta,null,entre sarmiento y alem,san antonio,lamparas 80w,1,null,null,null,null,null,null
+14/02/25,colocacion de lampara,null,null,flia julio gomez (lado del comando),aguila,lamparas 80w,1,null,null,null,null,null,null
+14/02/25,cambio de caja en comando,null,null,galpon del ferro,null,null,null,null,null,null,null,null,null
+14/02/25,colocacion de lampara,libertad,null,libertad y santiago del estero,null,lamparas 80w,1,null,null,null,null,null,null
+14/02/25,colocacion de lampara,null,null,frente a la cancha,la loma,lamparas 80w,1,null,null,null,null,null,null
+14/02/25,colocacion de brazo y lampara,inmigrantes,null,inmigrantes y sargento cabral,null,lamparas 80w,1,brazo ,1,null,null,null,null
+21/02/25,retiro de insumo,san martin,null,municipalidad,centro,lamparas 100w,8,null,null,null,null,null,null
+21/02/25,colocacion de lampara,alfonsin,null,alfonsin y 25 de mayo,null,lamparas 100w,1,null,null,null,null,null,null
+21/02/25,colocacion de lampara,9 de julio,null,entre san martin y belgrano,null,lamparas 100w,1,null,null,null,null,null,null
+21/02/25,colocacion de lampara,null,null,frente a nicolosi,null,lamparas 100w,4,null,null,null,null,null,null
+21/02/25,colocacion de lampara,belgrano,null,frente a la casa de veron,belgrano,lamparas 100w,1,null,null,null,null,null,null
+21/02/25,colocacion de lampara,belgrano,null,entre n.diaz y f. duran,belgrano,lamparas 100w,1,null,null,null,null,null,null
+21/02/25,colocacion de lampara,null,null,predio de los feriantes,null,lamparas 100w,2,cable concentrico,3mt,null,null,null,null
+21/02/25,reparacion de semaforo,belgrano,null,belgrano y dorrego,null,null,null,null,null,null,null,null,null
+21/02/25,llave termica baja,null,null,escuela buey muerto,null,null,null,null,null,null,null,null,null
+24/02/25,retiro de insumo,san martin,null,municipalidad,centro,lamparas 100w,11,lamparas 80w,4,null,null,null,null
+24/02/25,acomodar cable de semaforo,jesus fernandez,null,jesus fernandez y libertad,null,null,null,null,null,null,null,null,null
+24/02/25,colocacion de lampara,remedios de escalada,null,entre santiago del estero y 27 de abril,null,lamparas 100w,1,null,null,null,null,null,null
+24/02/25,colocacion de lampara,remedios de escalada,null,entre santiago del estero y 27 de abril,null,lamparas 100w,1,null,null,null,null,null,null
+24/02/25,colocacion de lampara,almirante brown,null,entre alfonsin y santa fe,null,lamparas 100w,2,null,null,null,null,null,null
+24/02/25,colocacion de lampara,almirante brown,null,entre santa fe y cordoba,null,lamparas 100w,1,null,null,null,null,null,null
+24/02/25,puente cortado,martin fierro,null,martin fierro y san martin,null,null,null,null,null,null,null,null,null
+24/02/25,armado de jaula antibandalos,null,null,taller propio,null,null,null,null,null,null,null,null,null
+25/02/25,poda de arbol,moreno,null,san martin y libertad,null,null,null,null,null,null,null,null,null
+25/02/25,"colocacion de columna, antibandalos y recambio de colector",null,null,null,2 de abril,lamparas 80w,1,cable subterraneo,null,null,null,null,null
+25/02/25,colocacion de lampara,tucuman,null,tucuman y andres chazarreta,null,lamparas 80w,1,null,null,null,null,null,null
+25/02/25,poste quebrado y cables cortados,matienzo,null,null,null,null,null,null,null,null,null,null,null
+25/02/25,cambiar llave y tomacorrientes,null,null,jardin ositos cariñositos,null,toma corriente,1,llave termica,1,null,null,null,null
+25/02/25,trabajo en taller,null,null,taller propio,null,null,null,null,null,null,null,null,null
+26/02/25,cambio de flotante en bomba,null,null,loaj,null,null,null,null,null,null,null,null,null
+26/02/25,colocacion de lampara,null,null,bomba de loaj,null,lamparas 100w,1,null,null,null,null,null,null
+26/02/25,colocacion de lampara,namuncura,null,cruzando ruta 34,null,lamparas 100w,1,null,null,null,null,null,null
+26/02/25,colocacion de lampara,uruguay,null,pasaje uruguay(frente al tanque de agua),null,lamparas 100w,1,null,null,null,null,null,null
+26/02/25,colocacion de lampara,matienzo,null,matienzo y colon,norte,lamparas 100w,1,null,null,null,null,null,null
+26/02/25,colocacion de lampara,peru,null,pasaje pru,maipu,lamparas 100w,2,null,null,null,null,null,null
+26/02/25,mantenimiento de alumbrado,null,null,salita de primeros auxilios,la loma,null,null,null,null,null,null,null,null
+26/02/25,colocacion de lampara,null,null,estela gorosito,la loma,lamparas 100w,1,null,null,null,null,null,null
+27/02/25,retiro de luminarias,null,null,predio ex pista coronel,null,lamparas 150w,4,null,null,null,null,null,null
+27/02/25,"colocacion de llaves, lampara y tomacorriente",null,null,jardin ositos cariñositos,null,lamparas 80w,1,null,null,null,null,null,null
+27/02/25,colocacion de lampara,alem,null,alem y almirante brown,null,lamparas 80w,1,null,null,null,null,null,null
+27/02/25,colocacion de drisa,null,null,escuela de las americas,las americas,null,null,null,null,null,null,null,null
+27/02/25,colocacion de lampara,alfonsin,null,alfonsin y calle publica(cic),null,lamparas 80w,1,null,null,null,null,null,null
+27/02/25,trabajo en taller,null,null,taller propio,null,null,null,null,null,null,null,null,null
+28/02/25,colocacion de lampara,rafael ruiz,null,rafael ruiz y belgrano,null,lamparas 100w,2,null,null,null,null,null,null
+28/02/25,trabajos varios,null,null,taller propio,null,null,null,null,null,null,null,null,null
+05/03/25,retiro de insumo,san martin,null,municipalidad,centro,timer comando,2,null,null,null,null,null,null
+05/03/25,reconexion,null,null,escuela nueva del 2 de abril,2 de abril,null,null,null,null,null,null,null,null
+05/03/25,cambio de timer de comando,san martin,null,san martin y dorrego,null,timer comando,1,null,null,null,null,null,null
+05/03/25,colocacion de lampara,20 de junio,null,20 de junio y moreno,independiente,lamparas 100w,1,null,null,null,null,null,null
+05/03/25,colocacion de lampara,inmigrantes,null,entre 20 de junio y congreso,independiente,lamparas 100w,1,null,null,null,null,null,null
+05/03/25,timer corregido de comando,null,null,emeta,null,null,null,null,null,null,null,null,null
+05/03/25,timer corregido de comando,null,null,null,libertad,null,null,null,null,null,null,null,null
+06/02/25,conexion de medidor,null,null,escuela nueva del 2 de abril,2 de abril,null,null,null,null,null,null,null,null
+06/02/25,colocacion de brazo y lampara,null,null,cruzando la ruta por nicolosi,null,lamparas 100w,1,brazo ,1,null,null,null,null
+06/02/25,colocacion de lampara,nestor diaz ,null,nestor diaz y lascano,belgrano,lamparas 100w,1,null,null,null,null,null,null
+06/02/25,colocacion de lampara,mendez,null,mendez y lascano (flia ibarra),belgrano,lamparas 100w,1,null,null,null,null,null,null
+06/02/25,colocacion de lampara,francisco duran,null,francisco duran y belgrano,belgrano,lamparas 100w,1,null,null,null,null,null,null
+06/02/25,colocacion de lampara,nestor diaz ,null,nestor diaz y belgrano,belgrano,lamparas 100w,1,null,null,null,null,null,null
+06/02/25,reconexion ,almirante brown,null,frente a panaderia buen gusto,null,null,null,null,null,null,null,null,null
+06/02/25,reparacion maquina hormigonera,av.del agro,null,null,null,null,null,null,null,null,null,null,null
+06/02/25,reemplazo de cable,null,null,escuela paul harris,null,null,null,null,null,null,null,null,null
+06/02/25,bajada de toma corriente,san martin,null,null,centro,null,null,null,null,null,null,null,null
+06/02/25,arreglo de ventilador y colocacion de plafon,san martin,null,municipalidad,centro,null,null,null,null,null,null,null,null
+07/02/25,timer corregido de comando,null,null,null,villa elisa,null,null,null,null,null,null,null,null
+07/02/25,colocacion de lampara,uriarte,null,uriarte y tucuman,villa elisa,lamparas 100w,1,null,null,null,null,null,null
+07/02/25,colocacion de lampara,hipolito irigoyen,null,null,malvinas,lamparas 100w,1,null,null,null,null,null,null
+07/02/25,colocacion de lampara,godoy cruz,null,entre saavedra e inmigrantes,102 viviendas,lamparas 100w,2,null,null,null,null,null,null
+07/02/25,colocacion de lampara,null,null,pasaje junto a las vias ,libertad,lamparas 100w,1,null,null,null,null,null,null
+07/02/25,colocacion de lampara,dorrego,null,entre san martin y libertad,null,lamparas 100w,1,null,null,null,null,null,null
+07/02/25,colocacion de lampara,jesus fernandez,null,frente a la policia,null,lamparas 100w,1,null,null,null,null,null,null
+07/02/25,colocacion de lampara,jesus fernandez,null,jesus fernandez y sargento cabral,null,lamparas 100w,1,null,null,null,null,null,null
+07/02/25,colocacion de lampara,independencia,null,independencia y 20 junio,null,lamparas 100w,1,null,null,null,null,null,null
+07/02/25,morseto quemado,null,null,null,bicentenario,null,null,null,null,null,null,null,null
+07/02/25,colocacion de lampara,libertad,null,libertad y garcia mendez,bicentenario,lamparas 100w,2,null,null,null,null,null,null
+07/02/25,colocacion de lampara,9 de julio,null,al lado del profesorado,null,lamparas 100w,1,null,null,null,null,null,null
+07/02/25,colocacion de brazo y lampara,calle publica,null,entre alfonsin y balcarce detras de paul harris,null,lamparas 100w,2,brazo ,1,null,null,null,null
+07/02/25,armado de jaula antibandalos,null,null,taller propio,null,null,null,null,null,null,null,null,null
+10/02/25,retiro de insumos,san martin,null,municipalidad,centro,lamparas 100w,10,null,null,null,null,null,null
+10/02/25,reemplazo de cable,null,null,galpon del ferro,null,lamparas 100w,1,cable combinado,15mt,null,null,null,null
+10/02/25,bajada de toma corriente,alfonsin,null,alfonsin y ruta 34,null,null,null,null,null,null,null,null,null
+10/02/25,colocacion de lampara,chazarreta,null,entre rivadavia y balcarse,null,lamparas 100w,1,null,null,null,null,null,null
+10/02/25,colocacion de lampara,chazarreta,null,entre rivadavia y matienzo,null,lamparas 100w,1,null,null,null,null,null,null
+10/02/25,colocacion de lampara,colon,null,entre sarmiento y tucuman,null,lamparas 100w,1,null,null,null,null,null,null
+10/02/25,colocacion de lampara,corrientes,null,entre chazarreta y almirante brown,null,lamparas 100w,1,null,null,null,null,null,null
+10/02/25,colocacion de lampara,mar argentino,null,entre cordoba y corrientes,2 de abril,lamparas 100w,2,null,null,null,null,null,null
+10/02/25,timer corregido de comando,null,null,lado del caballito,null,null,null,null,null,null,null,null,null
+10/02/25,timer corregido de comando,,null,en los pinos,los pinos,null,null,null,null,null,null,null,null
+10/02/25,timer corregido de comando,cordoba,null,cordoba y 25 de mayo,null,null,null,null,null,null,null,null,null
+10/02/25,cambio de fotocelula en comando,null,null,null,belgrano,fotocelula,1,null,null,null,null,null,null
+21/04/25,retiro de insumo,san martin,publico,municipalidad,centro,lamparas,10,null,null,null,null,null,null
+21/04/25,cambio de tomacorriente,av del agro,publico,av del agro,null,tomacorriente,null,null,null,null,null,null,null
+21/04/25,colocacion de fotocelula y cable,los castillos,publico,cementerio,null,fotocelula con base,1,Cable 1.5mm,2,null,null,null,null
+21/04/25,bajada a tierra,av san martín ,privado,bajada a tierra de tomas para albañiles,null,null,null,null,null,null,null,null,null
+21/04/25,reacomodo de poste y colocacion de antibandalos,null,publico,casa de tuta,malvinas,antibandalo,1,null,null,null,null,null,null
+21/04/25,colocacion de lampara,rivadavia,publico,rivadavia y colón,null,lampara 80w,1,null,null,null,null,null,null
+21/04/25,colocacion de lampara,remedios de escalada,publico,9 de julio y remedios de escalada,null,lampara 80w,1,null,null,null,null,null,null
+21/04/25,cambio de horario de un timer,null,publico,ninguna,null,null,null,null,null,null,null,null,null
+21/04/25,cambio de faroles modificados,av alfonsín,publico,ninguna,null,lampara 40w,4,faroles,4,null,null,null,null
+21/04/25,trabajo en taller,null,publico,taller,null,null,null,null,null,null,null,null,null
+22/04/25,colocacion de lampara,villa elisa,publico,hipolito irigoyen y matienzo,null,lampara 80w,1,null,null,null,null,null,null
+22/04/25,colocacion de lampara,heroes de malvinas,publico,ninguna,null,lampara 80w,1,null,null,null,null,null,null
+22/04/25,colocacion de lampara,alfonsin,publico,alfonsin y almirante brown,null,lampara 80w,1,null,null,null,null,null,null
+22/04/25,colocacion de lampara,almirante brown,publico,almirante brown y cordoba,null,lampara 80w,1,null,null,null,null,null,null
+22/04/25,colocacion de lampara,cordoba,publico,cordoba y heroes de malvinas,null,lampara 80w,2,null,null,null,null,null,null
+22/04/25,colocacion de lampara,colón,publico,colon y cordoba,null,lampara 80w,1,null,null,null,null,null,null
+22/04/25,colocacion de lampara,namuncura,publico,namuncura y chazarreta,null,lampara 80w,1,null,null,null,null,null,null
+22/04/25,reconexion,mar argentino,publico,entre namuncura y corrientes,null,null,null,null,null,null,null,null,null
+22/04/25,"colocacion de lampara, antibandalo y poda",mar argentino,publico,mar argentino y cordoba,null,lampara 80w,1,antibandalo,1,null,null,null,null
+22/04/25,colocacion de lampara,belgrano,publico,felix gomez y belgrano,null,lampara 80w,1,null,null,null,null,null,null
+22/04/25,retiro de insumo,av san martin,publico,municipalidad,centro,lampara 80w,10,null,null,null,null,null,null
+22/04/25,luminaria descompuesta,av san martin,publico,plaza mitre,null,null,null,null,null,null,null,null,null
+22/04/25,colocacion de lamparas,octavio lascano,publico,octavio lascano y araujo,null,lampara 80w,2,null,null,null,null,null,null
+22/04/25,reconexion,corrientes,publico,frente de escuela,null,null,null,null,null,null,null,null,null
+22/04/25,colocacion de lampara,jesús fernandez,publico,poso zuni/ibañez,null,lampara 80w,2,null,null,null,null,null,null
+22/04/25,colocacion de lampara,los castillos,publico,castillos y jesus fernandez,null,lampara 80w,1,null,null,null,null,null,null
+22/04/25,empalme cable subterraneo,av belgrano,publico,paseo del agro,null,cable subterraneo ,"4, 10 mm",acometida,2 Mm,null,null,null,null
+22/04/25,trabajo en taller,null,publico,taller,null,null,null,null,null,null,null,null,null
+23/04/25,retiro de insumo,av san martin,publico,municipalidad,centro,lampara 80w,10,null,null,null,null,null,null
+23/04/25,colocacion de lampara,null,publico,lado de lomada,cooperativa,lampara 80w,1,null,null,null,null,null,null
+23/04/25,colocacion de lampara,almirante brown,publico,flia figueroa,null,lampara 80w,1,null,null,null,null,null,null
+23/04/25,colocacion de lampara,null,publico,flia castillo,libertad,lampara 80w,1,null,null,null,null,null,null
+23/04/25,"colocacion de antibandalo, lampara y cable de aluminio",pasaje pereyra,publico,extencion,null,lampara 80w,1,cable ,30Mm,Antibandalo completo,1,null,null
+23/04/25,colocacion de lampara,20 de junio,publico,20 de junio y pereyra,null,lampara 80w,1,null,null,null,null,null,null
+23/04/25,tutor en poste,null,publico,flia rodiguez,roca,null,null,null,null,null,null,null,null
+23/04/25,reconexion y colocacion de lampara,santiago del estero,publico,santiago del estero y mayulli,null,lampara 80w,1,null,null,null,null,null,null
+23/04/25,reclamo de edese,av san martin,privado,"comando del vivero, falta cable de lumbrado",null,null,null,null,null,null,null,null,null
+23/04/25,colocacion de lampara,null,publico,sala y capilla,2 de abril,lampara 80w,1,null,null,null,null,null,null
+23/04/25,cambio de conexion de llave de luz,null,publico,capilla,2 de abril,null,null,null,null,null,null,null,null
+23/04/25,cambio de lampara,andres chazarreta,publico,andres chazarreta y perú,null,lampara 80w,1,null,null,null,null,null,null
+23/04/25,retiro de columna con dos artefactos,null,publico,plazoleta,maipú,null,null,null,null,null,null,null,null
+23/04/25,cambio de lampara y cable,av san martin,publico,plaza mitre,centro,lampara 40w,8,cable 15mm,"2,x30Mm",null,null,null,null
+23/04/25,trabajo en taller,null,publico,taller,null,null,null,null,null,null,null,null,null
+24/04/25,colocacion de cables y antibandalos,null,privado,predio quechuistas,null,lampara 80w,1,antibandalo completo,1, cable concentrico,2x15 Mm,null,null
+24/04/25,colocacion de lampara,Libertad,publico,garcia mendez y libertad,centro,lampara 80w,2,null,null,null,null,null,null
+24/04/25,reconexion luminaria,raul alfonsin,publico,null,null,null,null,null,null,null,null,null,null
+24/04/25,reconexion cable cortado,libertad,publico,hogar de ancianos,null,null,null,null,null,null,null,null,null
+24/04/25,colocacion de antibandalo y lampara,av belgrano,publico,paseo del agro,null,lampara 80w,15,antibandalo completo,15,null,null,null,null
+24/04/25,colocacion de cable subterraneo,av 25 de mayo,publico,veredon,null,null,null,null,null,null,null,null,null
+24/04/25,trabajo en taller,null,publico,taller,null,null,null,null,null,null,null,null,null
+25/04/25,reactivacion de lamparas,null,publico,null,null,lampara 80w,5,null,null,null,null,null,null
+25/04/25,reclamo universidad,independencia,publico,faltan 5 lamparas de 80w y una fotocelula indu,null,null,null,null,null,null,null,null,null
+25/04/25,retiro lampara quemada,null,publico,oficina de ale,null,null,null,null,null,null,null,null,null
+25/04/25,colocacion de lampara,america del norte,publico,america del norte y buenos aires,las americas,lampara 80w ,1,null,null,null,null,null,null
+25/04/25,colocacion de lampara,dorrego,publico,null,null,lampara 80w,1,null,null,null,null,null,null
+25/04/25,trabajo en taller,null,publico,taller,null,null,null,null,null,null,null,null,null
+25/04/25,colocacion drisa en mastil,av 25 de mayo,null,sportivo,null,null,null,null,null,null,null,null,null
+28/04/25,retiro de insumo,av san martin,publico,municipalidad,centro,lampara 80w,10,null,null,null,null,null,null
+28/04/25,colocacion,null,privado,sala mistol,null,25 MM cable,"2, 1.5mm",null,null,null,null,null,null
+28/04/25,colocacion,null,null,mistol,null,acometida,null,cable subterraneo 4mm,"2,x17Mm",null,null,null,null
+28/04/25,colocacion de antibandalos y lampara,null,privado,"sala, mistol",null,antibandalos completos,4,lampara 80w,4,null,null,null,null
+28/04/25,colocacion de focos internos,null,privado,"sala, mistol",null,focos internos,null,null,null,null,null,null,null
+28/04/25,activacion de comando nuevo,av belgrano,publico,paseo del agro,null,null,null,null,null,null,null,null,null
+28/04/25,colocacion de bandera provincial y fernandez,av belgrano,null,paseo del agro,null,null,null,null,null,null,null,null,null
+28/04/25,reconexion,null,null,flia mamfred@,2 de abril,null,null,null,null,null,null,null,null
+28/04/25,colocacion de lampara,cordoba,publico,cordoba y mar argentino,null,lampara 80w,1,null,null,null,null,null,null
+28/04/25,colocacion de lampara,cordoba,publico,cordoba y uriarte,2 de abril ampliacion,lampara 80w,1,null,null,null,null,null,null
+28/04/25,colocacion de lampara,ruta 34 vieja,publico,flia farfan,null,lampara 80w,1,null,null,null,null,null,null
+28/04/25,colocacion de fotocelula  ,null,null,mistol,null,fotocelula industrial,1,null,null,null,null,null,null
+28/04/25,colocacion de lampara,garcia mendez,publico,garcia mendez y belgrano,null,lampara 80w,1,null,null,null,null,null,null
+28/04/25,trabajo en taller,null,null,taller,null,null,null,null,null,null,null,null,null
+28/04/25,trabajo en el peaje,ruta 34 nueva,publico,pasando la YPF,null,null,null,null,null,null,null,null,null
+29/05/25,retiro de insumo,av san martin,publico,municipalidad,centro,lampara 80w,10,null,null,null,null,null,null
+29/05/25,colocacion de lampara,libertad,publico,ninguna,libertad,lampara 80w,2,null,null,null,null,null,null
+29/05/25,colocacion de lampara,null,publico,"canalito, costado del canal de drenaje",null,lampara 80w,4,null,null,null,null,null,null
+29/05/25,"colocacion de lampara, cables y parada de columna",null,publico,plazoleta,maipú,lampara 80w,2,cable subteraneo 1.5mm,2 Mm,null,null,null,null
+29/05/25,colocacion de lampara,uriquiza,publico,urquiza y pedro leon gallo,null,lampara 80w,1,null,null,null,null,null,null
+29/05/25,retiro de cable,null,publico,null,null,null,null,null,null,null,null,null,null
+29/05/25,colocacion de lampara,Urquiza,publico,Urquiza y fransisco de aguirre,null,lampara 80w,1,null,null,null,null,null,null
+29/05/25,cambio de farola,santiago del estero,publico,esquina de santiago del estero y av san martin,null,farola 40w,10,null,null,null,null,null,null
+29/05/25,trabajo en taller,null,publico,taller,null,null,null,null,null,null,null,null,null
+30/05/25,retiro de insumo,av san martin,publico,municipalidad,centro,lampara 80w,10,null,null,null,null,null,null
+30/05/25,bajada de toma,av belgrano,publico,"paseo del agro, tio gere",null,null,null,null,null,null,null,null,null
+30/05/25,colocacion de foto celula y lampara,independencia,privado,Escuela de capacitacion profesional N25 adolfo alsina,null,lampara 80w,4,fotocelula,1,null,null,null,null
+30/05/25,extencion de alumbrado,null,null,"la loma, victoria al fondo, garnica cristina",null,null,null,null,null,null,null,null,null
+30/05/25,colocacion de lampara,jesus fernandez,publico,pozo suni,null,lampara 80w,1,null,null,null,null,null,null
+30/05/25,colocacion de lampara,juan mayuli,publico,juan mayulli y jesus fernandez,null,lampara 80w,1,null,null,null,null,null,null
+30/05/25,reconexion,irigoyen,privado,"hipolito irigoyen casi matienzo, flia villalba",null,null,null,null,null,null,null,null,null
+30/05/25,colocacion de lampara,pedro leon gallo,publico,pedro leon gallo y matienzo,null,lampara 80w,1,null,null,null,null,null,null
+30/05/25,colocacion de lampara,matienzo,null,atras del hospital nuevo,null,lampara 80w,1,null,null,null,null,null,null
+30/05/25,colocacion de lampara,pedro leon gallo,publico,entre cordoba y santa fe,null,lampara 80w,1,null,null,null,null,null,null
+30/05/25,colocacion de lampara,av belgrano,publico,paseo del agro,null,lampara 80w,3,null,null,null,null,null,null
+05/06/25,poda de planta ,null,null,frente de la chuchi matarazo,null,null,null,null,null,null,null,null,null
+05/06/25,colocacion de lampara,congreso,publico,congreso y martin fierro,null,lampara 80w,1,null,null,null,null,null,null
+05/06/25,retiro de guirnalda,null,null,null,null,null,null,null,null,null,null,null,null
+05/06/25,colocacion de lampara,hector celario,publico,entre san martín y belgrano,belgrano,lampara 80w,1,null,null,null,null,null,null
+05/06/25,colocacion de lampara,hector celario,publico,entre belgrano y lascano,belgrano,lampara 80w,1,null,null,null,null,null,null
+05/06/25,colocacion de lampara,san martin,publico,esquina de paola juarez,bicentenario,lampara 80w,1,null,null,null,null,null,null
+05/06/25,colocacion de lampara,san martin,publico,frente a cancha de fadel,null,lampara 80w,2,null,null,null,null,null,null
+05/06/25,reconexion,null,privado,sala de mistol,null,cable subterraneo ,null,null,null,null,null,null,null
+05/06/25,parada de pilar trifasico,null,null,en mistol,null,null,null,null,null,null,null,null,null
+06/05/25,retiro de insumo,san martin,publico,municipalidad,centro,lampara 80w,15,null,null,null,null,null,null
+06/05/25,colocacion de lampara,absalon rojas,publico,absalon rojas y san martín frente de jyr,null,lampara 80w,1,null,null,null,null,null,null
+06/05/25,colocacion de lampara,27 de abril,publico,27 de abril y belgrano,null,lampara 80w,1,null,null,null,null,null,null
+06/05/25,colocacion de lampara,belgrano,publico,entre chein y islas malvinas,null,lampara 80w,1,null,null,null,null,null,null
+06/05/25,reprogramacion de timer,null,null,null,libertad,null,null,null,null,null,null,null,null
+06/05/25,colocacion de lampara,namuncura,publico,frente escuela nueva,null,lampara 80w,1,null,null,null,null,null,null
+06/05/25,colocacion de lampara,namuncura,publico,entre pedro leon gallo y ruta 34,null,lampara 80w,1,null,null,null,null,null,null
+06/05/25,colocacion de lampara,pasaje domingo bravo,publico,null,30 viviendas,lampara 80w,1,null,null,null,null,null,null
+06/05/25,colocacion de lampara,almirante brown,publico,p carol y almirante brown,null,lampara 80w,1,null,null,null,null,null,null
+06/05/25,colocacion de lampara,chazarreta,publico,esquina de plazoleta,null,lampara 80w,1,null,null,null,null,null,null
+06/05/25,reconexion,laprida,publico,entre chazarreta e irigoyen,null,"cable jn, polar",2 Mm,null,null,null,null,null,null
+06/05/25,colocacion de lampara,pasaje juan felipe ibarra,publico,pasaje,independiente,lampara 80w,1,null,null,null,null,null,null
+06/05/25,colocacion de lampara,pasaje de mario alosen,publico,donde vive mario alosen,null,lampara 80w,1,null,null,null,null,null,null
+06/05/25,colocacion de lampara,null,publico,la loma al lado del canal del drenaje,null,lampara 80w,1,null,null,null,null,null,null
+06/05/25,colocacion de lampara,null,publico,"loteo de figueora, chungui pereyra ",null,lampara 80w,1,null,null,null,null,null,null
+06/05/25,trabajo en taller,null,null,taller,null,null,null,null,null,null,null,null,null
+06/05/25,bajada de toma,jesus fernandez,null,yendo a pozo suni,null,null,null,null,null,null,null,null,null
+07/05/25,retiro de insumo,av san martin,publico,municipalidad,centro,lampara 80w,10,null,null,null,null,null,null
+07/05/25,cambio de lugar de poste,av san martin,null,null,null,null,null,null,null,null,null,null,null
+07/05/25,reparaciones varias,null,null,Jardin 12 de octubre,null,null,null,null,null,null,null,null,null
+07/05/25,reparaciones varias,null,null,Jardin 2 de abril,null,null,null,null,null,null,null,null,null
+07/05/25,reparacion de comando,av belgrano,null,tauil,null,null,null,null,null,null,null,null,null
+07/05/25,colocacion de lampara,null,null,Casa de adriana rodriguez,cooperativa,lampara 80w,1,null,null,null,null,null,null
+07/05/25,conexion,null,null,flia roldan,cooperativa,null,null,null,null,null,null,null,null
+07/05/25,colocacion de lampara,null,null,pasaje al lado del negocio de gilda,cooperativa,lampara 80w,1,null,null,null,null,null,null
+07/05/25,colocacion de lampara,pasaje america,null,null,12 de octubre,lampara 80w,1,null,null,null,null,null,null
+07/05/25,arreglo de poste,null,null,camino a la loma,null,null,null,null,null,null,null,null,null
+07/05/25,trabajo en taller,null,null,taller,null,null,null,null,null,null,null,null,null
+09/05/25,colocacion de lampara,ruta 34,publico,"sobre ruta 34 y matienzo, flia gallardo",null,lampara 80w,1,null,null,null,null,null,null
+09/05/25,colocacion de lampara,ruta 34,null,"matienzo y ruta 34, gauchito gil",null,lampara 80w,1,null,null,null,null,null,null
+09/05/25,colocacion de guirnalda con foco y bajada a tierra,null,publico,plazoleta del maipú,null,focos  ,5,null,null,null,null,null,null
+09/05/25,colocacion de lampara,null,publico,plazoleta del maipú,null,lampara 80w,1,null,null,null,null,null,null
+09/05/25,colocacion de lampara,matienzo,publico,matienzo y colón,null,lampara 80w,1,null,null,null,null,null,null
+09/05/25,colocacion de lampara,martin fierro,null,martin fierro y godoy cruz,null,lampara 80w,2,null,null,null,null,null,null
+09/05/25,colocacion de ventilador,null,null,sala de mistol,null,null,null,null,null,null,null,null,null
+09/05/25,cambio de 3 llaves punto y tdm,null,null,escuela huellitas,null,null,null,null,null,null,null,null,null
+05/02/25,retiro de insumo,null,null,municipalidad,null,adaptadores,60,null,null,null,null,null,null
+05/02/25,colocacion de lampara,namuncura,privado,namuncura y ruta 34 (flia ortega),null,lamparas de 80w,1,null,null,null,null,null,null
+05/02/25,colocacion de lampara,irigoyen,privado,irigoyen casi namuncura (flia perez),2 de abril,lamparas de 80w,1,null,null,null,null,null,null
+05/02/25,extension ,av san martin,publico,en el barrio del gringo figueroa,san martin,cable,100mt,brazo,2,lamparas de 80w,2,null,null
+05/02/25,colocacion de lampara,urquiza,publico,entre irigoyen y chazarreta,null,lamparas de 80w,1,null,null,null,null,null,null
+05/02/25,reparacion de comando,null,null,null,null,null,null,null,null,null,null,null,null
+05/02/25,poda de arbol,jesus fernandez,null,jesus fernandez y 20 de junio,null,null,null,null,null,null,null,null,null
+05/02/25,reparacion de luminaria y antivandalos,null,null,null,null,null,null,null,null,null,null,null,null
+05/02/25,cambio de llave,null,privado,en oficina de sanfi ,null,null,null,null,null,null,null,null,null
+10/01/25,colocacion de lampara,tucuman,publico,tucuman y uriarte,null,lamparas de 80w,2,null,null,null,null,null,null
+10/01/25,reconexion,tucuman,privado,tucuman y america del norte,null,null,null,null,null,null,null,null,null
+10/01/25,colocacion de lampara,san martin,publico,san martin y rafael ruiz,null,lamparas de 80w,null,null,null,null,null,null,null
+10/01/25,trabajo en taller,null,null,null,null,null,null,null,null,null,null,null,null
+10/01/25,colocacion de lampara,null,null,la loma,null,lamparas de 80w,14,null,null,null,null,null,null
+10/01/25,reconexion,null,null,la loma,null,portalamparas,4,null,null,null,null,null,null
+10/01/25,retiro de insumo,null,null,municipalidad,null,lamparas de 80w,10,null,null,null,null,null,null
+10/01/25,reconexion,chein,null,chein y belgrano (cifra),null,null,null,null,null,null,null,null,null
+10/01/25,revision de cable robado,null,null,null,las americas,null,null,null,null,null,null,null,null
+10/01/25,colocacion de lampara,santa fe,null,null,las penquitas,lamparas de 80w,1,null,null,null,null,null,null
+10/01/25,revision de instalacion electrica,null,null,null,villa elisa,lamparas de 80w,1,antivandalo,-1,null,null,null,null
+15/01/25,retiro de insumo,null,null,municipalidad,null,cable de aluminio,100mt,null,null,null,null,null,null
+15/01/25,extension ,av belgrano,publico,predio del ferro,null,cable,60mt,null,null,null,null,null,null
+15/01/25,bajada para bomba de agua,ruta 34,privada,predio el ganzo,null,null,null,null,null,null,null,null,null
+15/01/25,retiro de insumo,null,null,municipalidad,null,cable concentrico,null,null,null,null,null,null,null
+15/01/25,trabajo en taller,null,null,null,null,null,null,null,null,null,null,null,null
+17/01/25,colocacion,av san martin,privada,predio fiesta del trigo,9 de julio,antivandalo,5,lamparas de 80w,5,null,null,null,null
+17/01/25,conexion,av san martin,privada,predio fiesta del trigo,9 de julio,cable concentrico,60mt,null,null,null,null,null,null
+17/01/25,bajada de electricidad,av san martin,privada,predio fiesta del trigo,9 de julio,toma corriente,2,null,null,null,null,null,null
+17/01/25,colocacion de lampara,ruta 34 (vieja),publico,ruta 34 frente a sportivo,cooperativa,lampara de 80w,2,null,null,null,null,null,null
+17/01/25,colocacion de lampara,godoy cruz,publico,guemes y godoy cruz,102,lampara de 80w,1,null,null,null,null,null,null
+17/01/25,retiro de insumo,null,null,municipalidad,null,lampara de 80w,11,null,null,null,null,null,null
+17/01/25,colocacion de lampara,guemes,publico,libertad y remedios de escalada,null,lampara de 80w,2,null,null,null,null,null,null
+17/01/25,trabajo en taller,null,null,null,null,null,,null,null,null,null,null,null
+17/01/25,colocacion,null,privado,municipalidad,null,ventilador de pared,1,null,null,null,null,null,null
+17/01/25,colocacion de lampara,null,publico,moreno y mayuli,null,lampara de 80w,1,null,null,null,null,null,null
+17/01/25,colocacion de lampara,null,publico,gral taboada e independencia,null,lampara de 80w,1,null,null,null,null,null,null
+13/01/25,trabajo en taller,null,null,null,null,null,null,null,null,null,null,null,null
+14/01/25,reconexion,libertad,privado,salon de guadalupe,hospital,cable,9mt,null,null,null,null,null,null
+14/01/25,colocacion de lampara,borges,publico,entre inmigrantes y saavedra,null,lampara de 80w,3,null,null,null,null,null,null
+14/01/25,arreglo de cable caido del alumbrado,borges,publico,borges y saavedra,null,null,null,null,null,null,null,null,null
+14/01/25,reconexion,null,publico,plazoleta belgrano,null,lampara de 80w,3,cable,6mt,null,null,null,null
+14/01/25,retiro de insumo,null,null,municipalidad,null,lampara de 80w,10,null,null,null,null,null,null
+22/01/25,alumbrado,av san martin (prologacion),publico,vivero,null,lampara de 80w,3,portalampara,1,null,null,null,null
+22/01/25,colocacion poste,null,privado,la cuchilla (molinari),null,poste,1,null,null,null,null,null,null
+22/01/25,colocacion de lampara,congreso,publico,congreso y 12 de octubre,null,lampara de 80w,1,null,null,null,null,null,null
+22/01/25,retiro de insumo,null,null,municipalidad,null,lampara de 80w,5,rollo de cable concentrico,1,null,null,null,null
+22/01/25,colocacion de lampara,almirante brown,publico,almirante brown y namuncura,null,lampara de 80w,1,portalampara,1,null,null,null,null
+22/01/25,revision de instalacion electrica,null,privado,negro torres funciona normal¿,trula,null,null,null,null,null,null,null,null
+22/01/25,revision de instalacion electrica,av san martin (prolongacion norte),privado,concejal gomez funciona normal¿,null,null,null,null,null,null,null,null,null
+22/01/25,colocacion de lampara,corrientes,publico,corrientes y andres chazarreta,null,lampara de 80w,2,null,null,null,null,null,null
+22/01/25,colocacion de lampara,matienzo,publico,matienzo e hipolito irigoyen,null,lampara de 80w,1,null,null,null,null,null,null
+06/02/25,retiro de insumo,null,null,municipalidad,null,lampara de 80w,10,null,null,null,null,null,null
+06/02/25,retiro de mangueras y adornos,sarmiento,publico,sarmiento,null,null,null,null,null,null,null,null,null
+06/02/25,revision de instalacion electrica,inmigrantes,publico,inmigrantes y sargento cabral,null,null,null,null,null,null,null,null,null
+06/02/25,instalacion,null,publico,plazoleta del maipu,maipu,brazo doble,6,foco,14,null,null,null,null
+06/02/25,reconexion,null,publico,plaza mitre,null,null,null,null,null,null,null,null,null
+07/02/25,retiro de insumo,null,null,municipalidad,null,lampara de 80w,10,null,null,null,null,null,null
+07/02/25,colocacion de lampara,dorrego,publico,entre 20 de junio y congreso,null,lampara de 80w,1,null,null,null,null,null,null
+07/02/25,colocacion de lampara,sargento cabral,publico,dorrego y 12 de octubre,null,lampara de 80w,1,null,null,null,null,null,null
+07/02/25,reparacion,absalon rojas,publico,entre san martin y libertad,null,null,null,null,null,null,null,null,null
+31/01/25,retiro de insumo,null,null,municipalidad,null,cable,150mt,null,null,null,null,null,null
+31/01/25,colocacion y retiro de cable,null,privado,predio fiesta del trigo,null,antivandalos,5,lampara de 80w,5,toma corriente,1,null,null
+31/01/25,extension de alumbrado,null,privado,flias cisneros y rojas ¿,null,alumbrado,150mt,brazo,3,lamparas de 80w,3,null,null
+31/01/25,colocacion de lampara,null,privado,flia moreno¿,las americas,lampara de 80w,1,null,null,null,null,null,null
+20/01/25,colocacion de lampara,libertad,null,libertad y 27 de abril,null,lampara de 80w,1,null,null,null,null,null,null
+20/01/25,colocacion de lampara,islas malvinas,null,islas malvinas y libertad,null,lampara de 80w,1,null,null,null,null,null,null
+20/01/25,colocacion de lampara,andres chazarreta,null,andres chazarreta e islas malvinas,null,lampara de 80w,1,null,null,null,null,null,null
+20/01/25,colocacion de lampara,uriarte,null,uriarte y urquiza,null,lampara de 80w,1,null,null,null,null,null,null
+20/01/25,colocacion de lampara,uriarte,null,uriarte y matienzo,null,lampara de 80w,1,null,null,null,null,null,null
+20/01/25,colocacion de lampara,independencia,null,entre san martin y belgrano,null,lampara de 80w,2,null,null,null,null,null,null
+20/01/25,colocacion de lampara,independencia,null,frente al centro cultural,null,lampara de 80w,1,null,null,null,null,null,null
+20/01/25,retiro de insumo,null,null,municipalidad,null,lampara de 80w,10,null,null,null,null,null,null
+20/01/25,poda de arbol,santiago del estero,null,santiago del estero y absalon rojas,null,null,null,null,null,null,null,null,null
+20/01/25,colocacion de lampara,urquiza,null,urquiza matadero,null,lampara de 80w,1,null,null,null,null,null,null
+20/01/25,trabajo en taller,null,null,null,null,null,null,null,null,null,null,null,null
+24/01/25,retiro de tomas,null,null,null,null,null,null,null,null,null,null,null,null
+24/01/25,colocacion de lampara,rivadavia,null,rivadavia y almirante brown,null,lampara de 80w,2,null,null,null,null,null,null
+24/01/25,colocacion de lampara,colon,null,colon y santa fe,null,lampara de 80w,1,null,null,null,null,null,null
+24/01/25,revision de instalacion electrica,almirante brown,null,almirante brown y matienzo,null,null,null,null,null,null,null,null,null
+24/01/25,presta de luminaria,null,null,la cuchilla,null,150mt,null,null,null,null,null,null,null
+24/01/25,colocacion,null,null,hogar de ancianos,null,foco,1,plafon led,4,null,null,null,null
+24/01/25,colocacion de lampara,nestor diaz,null,barrio bicentenario calle nestor diaz,bicentenario,lampara de 80w,1,null,null,null,null,null,null
+24/01/25,colocacion de lampara,los castillo,null,calle los castillo y cementerio,null,lampara de 80w,4,null,null,null,null,null,null
+21/01/25,traslado,null,null,la cuchilla,null,postes,2,null,null,null,null,null,null
+21/01/25,bajada de electricidad,null,null,barrio libertad,libertad,toma corriente,1,null,null,null,null,null,null
+21/01/25,revision de instalacion electrica,null,null,barrio libertad,libertad,null,null,null,null,null,null,null,null
+21/01/25,revision de instalacion electrica,null,null,barrio 21 de septiembre,21 de septiembre,null,null,null,null,null,null,null,null
+21/01/25,colocacion de lampara,tucuman,null,tucuman y 25 de mayo,null,lampara de 80w,1,null,null,null,null,null,null
+21/01/25,colocacion de lampara,tucuman,null,entre 25 de mayo y colon,null,lampara de 80w,1,null,null,null,null,null,null
+21/01/25,colocacion de lampara,colon,null,entre tucuman y sarmiento,null,lampara de 80w,1,null,null,null,null,null,null
+21/01/25,colocacion de lampara,tucuman,null,entre colon y almirante brown,null,lampara de 80w,1,null,null,null,null,null,null
+21/01/25,colocacion de lampara,uriarte,null,casi alfonsin frente a maderera el aleman,null,lampara de 80w,1,null,null,null,null,null,null
+21/01/25,revision de cable robado,25 de mayo,null,predio de los quichuista,null,null,null,null,null,null,null,null,null
+21/01/25,retiro luces navideñas,santiago del estero,null,santiago del estero y dorrego,null,null,null,null,null,null,null,null,null
+29/01/25,colocacion de lampara,rivadavia,null,entre colon y 25 de mayo,null,lampara de 80w,2,null,null,null,null,null,null
+29/01/25,colocacion,,null,veredon,null,toma corriente,1,null,null,null,null,null,null
+29/01/25,retiro de poste de alumbrado,lescano,null,calle lescano casi chein,belgrano,null,null,null,null,null,null,null,null
+29/01/25,colocacion de lampara,rivadavia,null,flia minga corvalan,30 viviendas,lampara de 80w,1,null,null,null,null,null,null
+29/01/25,reparacion,lugones,,lugones y rivadavia,30 viviendas,null,null,null,null,null,null,null,null
+29/01/25,colocacion de lampara,pedro leon gallo,null,entre cordoba y santa fe,villa aurora,lampara de 80w,1,null,null,null,null,null,null
+29/01/25,colocacion de lampara,null,null,flia farfan,santa rita,lampara de 80w,1,null,null,null,null,null,null
+04/02/25,retiro de insumo,null,null,municipalidad,null,lampara de 80w,13,null,null,null,null,null,null
+04/02/25,colocacion,null,null,municipalidad,null,soga,1,null,null,null,null,null,null
+04/02/25,reconexion,belgrano,null,belgrano e independencia,null,null,null,null,null,null,null,null,null
+04/02/25,reparacion,inmigrantes,null,barrio hospital calle inmigrantes,hospital,null,null,null,null,null,null,null,null
+04/02/25,colocacion,paraje puesto nuevo,null,casa de mabel silva,puesto nuevo,brazo,1,lampara de 80w,1,null,null,null,null
+04/02/25,colocacion de lampara,la loma,null,flia mercedes toloza,la loma,lampara de 80w,1,null,null,null,null,null,null
+04/02/25,cambio de contactor,pozo zuni,null,pozo zuni,pozo zuni,null,null,null,null,null,null,null,null
+04/02/25,colocacion de lampara,null,null,plazoleta belgrano,null,lampara de 80w,2,null,null,null,null,null,null
+14/01/25,bajada de electricidad,av. san martin,null,av san martin barrio libertad,libertad,null,null,null,null,null,null,null,null
+14/01/25,colocacion de lampara,dorrego,null,pasaje santos vega y dorrego,null,lampara de 80w,1,null,null,null,null,null,null
+14/01/25,colocacion de lampara,libertad,null,libertad y rafael ruiz,null,lampara de 80w,1,null,null,null,null,null,null
+14/01/25,trabajo en taller,null,null,null,null,null,null,null,null,null,null,null,null
+15/01/25,colocacion de lampara y reconexiones,gerez,null,calle gerez junto a la tapia de sportivo,null,lampara de 80w,2,cable aluminio,150mt,null,null,null,null
+02/02/25,colocacion de lampara,irigoyen,null,irigoyen barrio las malvinas lote de grigio,las malvinas,lampara de 80w,1,null,null,null,null,null,null
+02/02/25,colocacion de lampara,chazarreta,null,chazarreta y laprida,null,lampara de 80w,2,null,null,null,null,null,null
+02/02/25,reconexion,null,null,plazoleta del maipu,maipu,null,null,null,null,null,null,null,null
+02/02/25,cambio de fotocelula,null,null,cic de las americas,las americas,fotocelula,1,lampara de 80w,2,null,null,null,null
+02/02/25,traslado,null,null,sec. gonzales,null,cable concentrico,40mt,reflectores,2,null,null,null,null
+03/02/25,retiro de insumo,null,null,municipalidad,null,lampara de 80w,10,lampara de 40w,10,null,null,null,null
+03/02/25,colocacion de lampara,27 de abril,null,entre san martin y libertad,null,lampara de 80w,1,null,null,null,null,null,null
+03/02/25,colocacion de lampara,27 de abril,null,entre libertad y remedios de escalada,null,lampara de 80w,1,null,null,null,null,null,null
+03/02/25,colocacion de lampara,libertad,null,entre 27 de abril y santiago del estero,null,lampara de 80w,1,null,null,null,null,null,null
+03/02/25,colocacion de lampara,moreno,null,moreno y mayuli,independiente,lampara de 80w,1,null,null,null,null,null,null
+23/01/25,colocacion de lampara,corrientes,null,calle corrientes y publica,las penquitas,lampara de 80w,1,null,null,null,null,null,null
+23/01/25,corte de cables sueltos,pedro leon gallo,null,pedro leon gallo y rivadavia,null,null,null,null,null,null,null,null,null
+23/01/25,revision de cable cortado,los castillo,null,calle los castillo,null,fotocelula,1,null,null,null,null,null,null
+23/01/25,trabajo en taller,null,null,null,null,null,null,null,null,null,null,null,null
+23/01/25,retiro de insumo,null,null,municipalidad,null,lampara de 80w,10,null,null,null,null,null,null
+24/01/25,trabajo en taller,null,null,null,null,null,null,null,null,null,null,null,null
+24/01/25,cambio de llave,null,null,predio paseo del agro,null,llave bipolar de 20 A40amp,1,null,null,null,null,null,null
+24/01/25,colocacion de lampara,null,null,cementerio,null,lampara de 80w,1,null,null,null,null,null,null
+27/01/25,retiro de reflectores y palos,null,null,cancha de rugby,null,null,null,null,null,null,null,null,null
+27/01/25, retiro de reflectores palos y cables,null,null,la cuchilla,null,null,null,null,null,null,null,null,null
+27/01/25,colocaion de lampara,america central,null,frente a la escuela paul harris,null,lampara de 80w,1,null,null,null,null,null,null
+27/01/25,colocacion de lampara,balcarce,null,entre colon y 25 de mayo,null,lampara de 80w,1,null,null,null,null,null,null
+13/01/25,colocacion de lampara,hector celario,null,hector celario y libertad,null,lampara de 80w,1,null,null,null,null,null,null
+13/01/25,colocacion de lampara y reubicaciones,libertad,null,libertad y garcia mendez,bicentenario,lampara de 80w,1,null,null,null,null,null,null
+13/01/25,colocacion de lampara,santa fe,null,av. del agro y heroes de malvinas,null,lampara de 80w,2,null,null,null,null,null,null
+13/01/25,colocacion de lampara,cordoba,null,cordoba y av. del agro,null,lampara de 80w,1,null,null,null,null,null,null
+13/01/25,colocacion de lampara,ruta 34,null,flia velasquez,null,lampara de 80w,1,null,null,null,null,null,null
+13/01/25,colocacion de lampara,null,null,taller de chato,las americas,lampara de 80w,4,null,null,null,null,null,null
+13/01/25,reconexion,null,null,null,2 de abril,null,null,null,null,null,null,null,null
+29/01/25,retiro luces navideñas,av. belgrano,null,av. belgrano,null,null,null,null,null,null,null,null,null
+29/01/25,conexion,null,null,oficina del arqui,null,null,null,null,null,null,null,null,null
+30/01/25,retiro de insumo,null,null,municipalidad,null,lampara de 80w,15,null,null,null,null,null,null
+30/01/25,extension,null,null,pasaje detras del barrio aguila,null,cable desnudo,40mt,brazo,1,lampara de 80w,1,null,null
+30/01/25,colocacion de lampara,jesus fernandez,null,pasaje santos vega y jesus fernandez,aguila,lampara de 80w,1,null,null,null,null,null,null
+30/01/25,colocacion de lampara,jesus fernandez,null,entre santos vega y rene favaloro,null,lampara de 80w,1,null,null,null,null,null,null
+30/01/25,colocacion de lampara,sargento cabral,null,entre dorrego y moreno,null,lampara de 80w,1,null,null,null,null,null,null
+30/01/25,colocacion de lampara,null,null,frente a la escuela paul harris,las americas,lampara de 80w,1,null,null,null,null,null,null
+16/01/25,reconexion,absalon rojas,null,frente a susi wozquivich,null,null,null,null,null,null,null,null,null
+16/01/25,colocacion de lampara,remedios de escalada,null,pasaje roca,null,lampara de 80w,1,null,null,null,null,null,null
+16/01/25,reconexion,san martin,null,flia luna,quemado,cable presamblado,50mt,lampara de 80w,1,null,null,null,null
+16/01/25,recambio y colocacion de lampara,san martin,null,concejal gomez,libertad,brazo,1,lampara de 80w,1,null,null,null,null
+16/01/25,colocaion de lampara,ruta 34 (vieja),null,calle alen y ruta 34 vieja,null,lampara de 80w,1,null,null,null,null,null,null
+16/01/25,colocacion de lampara,null,null,flia pereyra,el canalito,lampara de 80w,1,null,null,null,null,null,null
+16/01/25,colocacion de lampara,aguirre,null,entre urquiza y matienzo,null,lampara de 80w,1,null,null,null,null,null,null
+16/01/25,colocacion de lampara,almirante brown,null,entre bolivia y rivadavia,null,lampara de 80w,1,null,null,null,null,null,null
+16/01/25,colocacion de lampara,mar argentino,null,mar argentino y santa fe,2 de abril,lampara de 80w,1,null,null,null,null,null,null
+16/01/25,colocacion de lampara,null,null,flia galvan,20 de junio,lampara de 80w,1,null,null,null,null,null,null
+16/01/25,colocacion de lampara,moreno,null,moreno y remedios de escalada,null,lampara de 80w,1,null,null,null,null,null,null
+22/01/25,colocacion,null,null,predio de los vidaleros,null,cable concentrico,30mt,null,null,null,null,null,null
+22/01/25,retiro de luces navideñas,santiago del estero,null,de santiago del estero hasta chein,null,null,null,null,null,null,null,null,null
+22/01/25,trabajo en taller,null,null,null,null,null,null,null,null,null,null,null,null
+23/01/25,retiro de insumo,null,null,municipalidad,null,lampara de 80w,10,null,null,null,null,null,null
+23/01/25,colocacion,la cuchilla,null,flia molinari,null,guirnalda,1,lampara de 80w,11,null,null,null,null
+23/01/25,colocacion,la cuchilla,null,flia molinari,null,reflector,null,cable concentrico,null,null,null,null,null
+23/01/25,bajada de electricidad,la cuchilla,null,flia molinari,null,bajada para sonido y luz,2,null,null,null,null,null,null
+23/01/25,colocacion,la cuchilla,null,flia molinari,null,antibanda,1,reflectores,2,null,null,null,null
+23/01/25,colocacion de lampara,america del norte,null,america del norte y corrientes desde flia leiva hasta flia farias,las americas,lampara de 80w,4,null,null,null,null,null,null
+23/01/25,colocacion de lampara,cordoba,null,cordoba y america del norte flia ragel bravo,null,lampara de 80w,1,null,null,null,null,null,null
+30/01/25,colocacion de lampara,homero mansi,null,barrio cooperativa calle homero masi,cooperativa,lampara de 80w,2,null,null,null,null,null,null
+30/01/25,colocacion,null,null,cementerio,null,toma corriente,4,null,null,null,null,null,null
+30/01/25,trabajo en taller,null,null,null,null,null,null,null,null,null,null,null,null
+30/01/25,retiro mangueras navideñas,raul alfonsin,null,av. del agro,null,null,null,null,null,null,null,null,null
+28/01/25,colocacion de lampara,laprida,null,entre 25 de mayo y colon,null,lampara de 80w,1,null,null,null,null,null,null
+28/01/25,colocacion de lampara,godoy cruz,null,flia rosa santillan,null,lampara de 80w,null,null,null,null,null,null,null
+03/02/25,reparacion,general taboada,null,entre moreno y dorrego,null,null,null,null,null,null,null,null,null
+03/02/25,colocacion de lampara,libertad,null,entre jesus fernandez y 9 de julio,null,lampara de 80w,1,null,null,null,null,null,null
+03/02/25,colocacion de lampara,raul alfonsin,null,entre raul alfonsin y america del norte (ramon mansilla),las americas,lampara de 80w,1,null,null,null,null,null,null
+03/02/25,colocacion de lampara,los castillo,null,entre pozo zuni y la loma,null,lampara de 80w,2,null,null,null,null,null,null
+03/02/25,colocacion de lampara,pasaje santos vega,null,pasaje santos vega,aguila,lampara de 80w,1,null,null,null,null,null,null
+03/02/25,colocacion de lampara,calle gerez,null,al lado de sportivo (mari delveliz),null,lampara de 80w,1,null,null,null,null,null,null
+03/02/25,colocacion de lampara,chazarreta,null,chazarreta y dario bovetti,las malvinas,lampara de 80w,1,null,null,null,null,null,null
+03/02/25,cambio de focos,av. 25 de mayo,null,veredon y bulevar,null,lampara de 80w,2,lampara de 40w ,5,null,null,null,null
+19/12/24,retiro de insumo,san martin,null,municipalidad,null,lamparas 100w,10,null,null,null,null,null,null
+19/12/24,colocacion de lampara,cordoba,publico,cordoba y uriarte,2 de abril ampliacion,lampara 80w,1,null,null,null,null,null,null
+19/12/24,arreglo de cable caido del alumbrado,borges,publico,borges y saavedra,null,null,null,null,null,null,null,null,null
+20/12/24,colocacion de lampara,27 de abril,publico,27 de abril y belgrano,null,lampara 80w,1,null,null,null,null,null,null
+20/12/24,retiro de insumo,null,null,municipalidad,null,lampara de 80w,10,null,null,null,null,null,null
+21/12/24,colocacion de lampara,uriarte,null,uriarte y corrientes,3 de abril,lamparas 80w,2,null,null,null,null,null,null
+21/12/24,retiro de insumo,san martin,null,municipalidad,centro,lamparas 100w,8,null,null,null,null,null,null
+21/12/24,colocacion de lampara,namuncura,null,cruzando ruta 34,null,lamparas 100w,1,null,null,null,null,null,null
+21/12/24,colocacion de lampara,tucuman,null,entre colon y almirante brown,null,lampara de 80w,1,null,null,null,null,null,null
+22/12/24,reconexion,null,null,plazoleta del maipu,maipu,null,null,null,null,null,null,null,null
+22/12/24,colocaion de lampara,america central,null,frente a la escuela paul harris,null,lampara de 80w,1,null,null,null,null,null,null
+22/12/24,colocacion de lampara,mar argentino,null,mar argentino y santa fe,2 de abril,lampara de 80w,1,null,null,null,null,null,null
+23/12/24,colocacion de lampara,congreso,publico,congreso y martin fierro,null,lampara 80w,1,null,null,null,null,null,null
+23/12/24,retiro de insumos,av san martin,publico,municipalidad,centro,lampara 80w,10,null,null,null,null,null,null
+24/12/24,colocacion de lampara,null,null,cementerio,null,lampara de 80w,1,null,null,null,null,null,null
+24/12/24,colocacion de lampara,alfonsin,null,alfonsin y calle publica(cic),null,lamparas 80w,1,null,null,null,null,null,null
+26/12/24,colocacion de lampara,mar argentino,publico,entre alfonsin y santa fe,null,lamparas 100w,1,null,null,null,null,null,null
+26/12/24,colocacion de lampara,almirante brown,null,entre bolivia y rivadavia,null,lampara de 80w,1,null,null,null,null,null,null
+26/12/24,timer corregido de comando,san martin,publico,plaza principal,null,null,null,null,null,null,null,null,null
+26/12/24,colocacion de lampara,pasaje santos vega,null,pasaje santos vega,aguila,lampara de 80w,1,null,null,null,null,null,null
+26/12/24,cambio de conexion de llave de luz,null,publico,capilla,2 de abril,null,null,null,null,null,null,null,null
+27/12/24,colocacion de lampara,dorrego,null,pasaje santos vega y dorrego,null,lampara de 80w,1,null,null,null,null,null,null
+27/12/24,colocacion de lampara,uriarte,null,casi alfonsin frente a maderera el aleman,null,lampara de 80w,1,null,null,null,null,null,null
+27/12/24,colocacion de lampara,cordoba,publico,cordoba y heroes de malvinas,null,lampara 80w,2,null,null,null,null,null,null
+27/12/24,colocacion de lampara,corrientes,publico,corrientes y andres chazarreta,null,lampara de 80w,2,null,null,null,null,null,null
+28/12/24,colocacion de lampara,sargento cabral,publico,dorrego y 12 de octubre,null,lampara de 80w,1,null,null,null,null,null,null
+28/12/24,empalme de cables de semaforo,san martin,null,san martin y santiago del estero,null,null,null,null,null,null,null,null,null
+29/12/24,colocacion de lampara,null,null,frente a nicolosi,null,lamparas 100w,4,null,null,null,null,null,null
+30/12/24,retiro de insumo,san martin,null,municipalidad,centro,timer comando,2,null,null,null,null,null,null
+31/12/24,colocacion de lampara,garcia mendez,publico,garcia mendez y belgrano,null,lampara 80w,1,null,null,null,null,null,null
+01/01/25,colocacion de lampara,rivadavia,null,entre colon y 25 de mayo,null,lampara de 80w,2,null,null,null,null,null,null
+01/01/25,colocacion y retiro de cable,null,privado,predio fiesta del trigo,null,antivandalos,3,lampara de 80w,5,toma corriente,1,null,null
+01/01/25,colocacion de lampara,uriarte ,null,uriarte y santa fe ,2 de abril,lamparas 80w,1,null,null,null,null,null,null
+01/01/25,colocacion de lampara,pasaje America,null,null,12 de octubre,lampara 80w,1,null,null,null,null,null,null
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,colocacion reflectores,,,,,,,,,,,,
+,retiro adornos y luminarias,,,,,,,,,,,,
+,colocacion de lampara,,,,,,,,,,,,
+,colocacion,,,,,,,,,,,,
+,armado de jaula antibandalos,,,,,,,,,,,,
+,retiro de insumo,,,,,,,,,,,,
+,colocacion de poste y lampara,,,,,,,,,,,,
+,reconexion,,,,,,,,,,,,
+,extension,,,,,,,,,,,,
+,colocacion de brazo y lampara,,,,,,,,,,,,
+,retiro de columna ,,,,,,,,,,,,
+,timer corregido de comando,,,,,,,,,,,,
+,colocacion de bajada de obra,,,,,,,,,,,,
+,armado de columna,,,,,,,,,,,,
+,trabajos varios,,,,,,,,,,,,
+,solucion de cortocircuito,,,,,,,,,,,,
+,cambio de contactor en comando,,,,,,,,,,,,
+,luminarias,,,,,,,,,,,,
+,poda de arbol,,,,,,,,,,,,
+,cambio de fotocelula,,,,,,,,,,,,
+,empalme de cables de semaforo,,,,,,,,,,,,
+,limpieza aire acondicionado,,,,,,,,,,,,
+,arreglo de toma corriente,,,,,,,,,,,,
+,colocacion de lampara y reconexion,,,,,,,,,,,,
+,bajada para obra,,,,,,,,,,,,
+,cambio de caja en comando,,,,,,,,,,,,
+,reparacion de semaforo,,,,,,,,,,,,
+,llave termica baja,,,,,,,,,,,,
+,acomodar cable de semaforo,,,,,,,,,,,,
+,puente cortado,,,,,,,,,,,,
+,"colocacion de columna, antibandalos y recambio de colector",,,,,,,,,,,,
+,poste quebrado y cables cortados,,,,,,,,,,,,
+,cambiar llave y tomacorrientes,,,,,,,,,,,,
+,trabajo en taller,,,,,,,,,,,,
+,cambio de flotante en bomba,,,,,,,,,,,,
+,mantenimiento de alumbrado,,,,,,,,,,,,
+,retiro de luminarias,,,,,,,,,,,,
+,"colocacion de llaves, lampara y tomacorriente",,,,,,,,,,,,
+,colocacion de drisa,,,,,,,,,,,,
+,cambio de timer de comando,,,,,,,,,,,,
+,conexion de medidor,,,,,,,,,,,,
+,reconexion ,,,,,,,,,,,,
+,reparacion maquina hormigonera,,,,,,,,,,,,
+,reemplazo de cable,,,,,,,,,,,,
+,bajada de toma corriente,,,,,,,,,,,,
+,arreglo de ventilador y colocacion de plafon,,,,,,,,,,,,
+,morseto quemado,,,,,,,,,,,,
+,retiro de insumos,,,,,,,,,,,,
+,cambio de fotocelula en comando,,,,,,,,,,,,
+,cambio de tomacorriente,,,,,,,,,,,,
+,colocacion de fotocelula y cable,,,,,,,,,,,,
+,bajada a tierra,,,,,,,,,,,,
+,reacomodo de poste y colocacion de antibandalos,,,,,,,,,,,,
+,cambio de horario de un timer,,,,,,,,,,,,
+,cambio de faroles modificados,,,,,,,,,,,,
+,"colocacion de lampara, antibandalo y poda",,,,,,,,,,,,
+,luminaria descompuesta,,,,,,,,,,,,
+,colocacion de lamparas,,,,,,,,,,,,
+,empalme cable subterraneo,,,,,,,,,,,,
+,"colocacion de antibandalo, lampara y cable de aluminio",,,,,,,,,,,,
+,tutor en poste,,,,,,,,,,,,
+,reconexion y colocacion de lampara,,,,,,,,,,,,
+,reclamo de edese,,,,,,,,,,,,
+,cambio de conexion de llave de luz,,,,,,,,,,,,
+,cambio de lampara,,,,,,,,,,,,
+,retiro de columna con dos artefactos,,,,,,,,,,,,
+,cambio de lampara y cable,,,,,,,,,,,,
+,colocacion de cables y antibandalos,,,,,,,,,,,,
+,reconexion luminaria,,,,,,,,,,,,
+,reconexion cable cortado,,,,,,,,,,,,
+,colocacion de antibandalo y lampara,,,,,,,,,,,,
+,colocacion de cable subterraneo,,,,,,,,,,,,
+,reactivacion de lamparas,,,,,,,,,,,,
+,reclamo universidad,,,,,,,,,,,,
+,retiro lampara quemada,,,,,,,,,,,,
+,colocacion drisa en mastil,,,,,,,,,,,,
+,colocacion de antibandalos y lampara,,,,,,,,,,,,
+,colocacion de focos internos,,,,,,,,,,,,
+,activacion de comando nuevo,,,,,,,,,,,,
+,colocacion de bandera provincial y fernandez,,,,,,,,,,,,
+,colocacion de fotocelula  ,,,,,,,,,,,,
+,trabajo en el peaje,,,,,,,,,,,,
+,"colocacion de lampara, cables y parada de columna",,,,,,,,,,,,
+,retiro de cable,,,,,,,,,,,,
+,cambio de farola,,,,,,,,,,,,
+,bajada de toma,,,,,,,,,,,,
+,colocacion de foto celula y lampara,,,,,,,,,,,,
+,extencion de alumbrado,,,,,,,,,,,,
+,poda de planta ,,,,,,,,,,,,
+,retiro de guirnalda,,,,,,,,,,,,
+,parada de pilar trifasico,,,,,,,,,,,,
+,reprogramacion de timer,,,,,,,,,,,,
+,cambio de lugar de poste,,,,,,,,,,,,
+,reparaciones varias,,,,,,,,,,,,
+,reparacion de comando,,,,,,,,,,,,
+,conexion,,,,,,,,,,,,
+,arreglo de poste,,,,,,,,,,,,
+,colocacion de guirnalda con foco y bajada a tierra,,,,,,,,,,,,
+,colocacion de ventilador,,,,,,,,,,,,
+,cambio de 3 llaves punto y tdm,,,,,,,,,,,,
+,extension ,,,,,,,,,,,,
+,reparacion de luminaria y antivandalos,,,,,,,,,,,,
+,cambio de llave,,,,,,,,,,,,
+,revision de cable robado,,,,,,,,,,,,
+,revision de instalacion electrica,,,,,,,,,,,,
+,bajada para bomba de agua,,,,,,,,,,,,
+,bajada de electricidad,,,,,,,,,,,,
+,arreglo de cable caido del alumbrado,,,,,,,,,,,,
+,alumbrado,,,,,,,,,,,,
+,colocacion poste,,,,,,,,,,,,
+,retiro de mangueras y adornos,,,,,,,,,,,,
+,instalacion,,,,,,,,,,,,
+,reparacion,,,,,,,,,,,,
+,colocacion y retiro de cable,,,,,,,,,,,,
+,extension de alumbrado,,,,,,,,,,,,
+,retiro de tomas,,,,,,,,,,,,
+,presta de luminaria,,,,,,,,,,,,
+,traslado,,,,,,,,,,,,
+,retiro luces navideñas,,,,,,,,,,,,
+,retiro de poste de alumbrado,,,,,,,,,,,,
+,cambio de contactor,,,,,,,,,,,,
+,colocacion de lampara y reconexiones,,,,,,,,,,,,
+,corte de cables sueltos,,,,,,,,,,,,
+,revision de cable cortado,,,,,,,,,,,,
+,retiro de reflectores y palos,,,,,,,,,,,,
+, retiro de reflectores palos y cables,,,,,,,,,,,,
+,colocaion de lampara,,,,,,,,,,,,
+,colocacion de lampara y reubicaciones,,,,,,,,,,,,
+,recambio y colocacion de lampara,,,,,,,,,,,,
+,retiro de luces navideñas,,,,,,,,,,,,
+,retiro mangueras navideñas,,,,,,,,,,,,
+,cambio de focos,,,,,,,,,,,,
