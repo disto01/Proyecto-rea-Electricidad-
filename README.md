@@ -49,3 +49,24 @@ secundaria, con el fin de automatizar y modernizar el proceso de
 atención.
 
 ------------------------------------------------------------------------
+
+##Integrantes 
+
+- Ledesma Israel Josias 
+- Vera Pablo Alejandro 
+- Ibañez Guillermo 
+- Ibañez Emilio
+- Carrizo Martina
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
